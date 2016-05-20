@@ -85,7 +85,29 @@ article .post {
     margin-bottom: 10px;
 }
 
+
+
+/** 
+ * Override footer and header
+*/
+
+.site-footer {
+    border-top: 1px solid $brand-color;
+    padding: $spacing-unit 0;
+}
+
+.footer-col-wrapper {
+    font-size: 15px;
+    color: $grey-color-dark;
+    margin-left: -$spacing-unit / 2;
+    @extend %clearfix;
+}
+
 .site-header {
     border-top: 5px solid $brand-color;
     border-bottom: 1px solid $brand-color;
+    min-height: 56px;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
 }
