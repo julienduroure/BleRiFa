@@ -7,4 +7,6 @@ ref: home
 ---
 
 #What is BleRiFa ?
-BleRiFa is a toolset to simplify your rigging life ! 
+BleRiFa is a toolset to simplify your rigging life !  
+  
+(As you can see, this site is still under construction :) )

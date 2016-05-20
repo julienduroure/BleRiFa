@@ -9,3 +9,4 @@ ref: about
 ---
 
 About page in French:)
+(Comme vous pouvez le voir, ce site est encore en construction)

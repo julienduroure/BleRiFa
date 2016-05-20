@@ -8,4 +8,5 @@ lang: en
 ref: about
 ---
 
-About page :)
+About page in English :)  
+(As you can see, this site is still under construction)
