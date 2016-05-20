@@ -10,3 +10,6 @@ ref: home
 BleRiFa is a toolset to simplify your rigging life !  
   
 (As you can see, this site is still under construction :) )
+
+Test | Responsive | Table
+{: class="resptable resp3"}

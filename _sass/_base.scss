@@ -204,3 +204,58 @@ pre {
         }
     }
 }
+
+/**
+ * Added for BleRiFa 
+ */
+ 
+.resptable {
+	width:100% ;
+	text-align:center;
+}
+
+.resp3 th {
+	width:33%
+}
+
+.resp3 td {
+	width:33%
+}
+
+.resp2 th {
+	width:50%
+}
+
+.resp2 td {
+	width:50%
+}
+
+.resp4 th {
+	width:25%
+}
+
+.resp4 td {
+	width:25%
+}
+
+.resp5 th {
+	width:20%
+}
+
+.resp5 td {
+	width:20%
+}
+
+@media screen and (max-width: 640px) {
+	.resptable td {
+		overflow-x: auto;
+		display: block;
+		width: 100%
+	}
+	
+	.resptable th {
+		overflow-x: auto;
+		display: block;
+		width: 100%
+	}
+}
