@@ -261,6 +261,11 @@ pre {
 }
 
 .lang {
-	text-align: right;
-	line-height: 2em
+    text-align: center;
+}
+
+.lang_item {
+    background-color: lighten($background-color, 5%);
+    border-radius: 25px;
+    width: 60px;
 }

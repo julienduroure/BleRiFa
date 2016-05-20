@@ -1,11 +1,11 @@
 <div class="wrapper lang"> 
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %} 
 {% for post in posts %} 
-	<a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> 
+	<span class="lang_item"><a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a></span>
 {% endfor %} 
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %} 
 {% for page in pages %}
-	<a href="{{ page.url | prepand: site.baseurl}}" class="{{ page.lang }}">{{ page.lang }}</a> 
+	<span class="lang_item"><a href="{{ page.url | prepand: site.baseurl}}" class="{{ page.lang }}">{{ page.lang }}</a></span>
 {% endfor %} 
 </div> 

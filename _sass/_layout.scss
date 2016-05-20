@@ -5,7 +5,7 @@
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
-
+    border-color: $brand-color;
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -98,7 +98,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $brand-color;
     padding: $spacing-unit 0;
 }
 
@@ -115,7 +115,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $grey-color-dark;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -199,6 +199,13 @@
 /**
  * Posts
  */
+article .post {
+    background-color: lighten($background-color, 5%);
+    border-radius: 25px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
 .post-header {
     margin-bottom: $spacing-unit;
 }
