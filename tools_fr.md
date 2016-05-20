@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /tools/
+permalink: /tools-fr/
 title: Tools
 in_menu: Y
 sort: 1
-lang: en
+lang: fr
 ref: tools
 ---
 

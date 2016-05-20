@@ -12,6 +12,9 @@ description: > # this means to ignore newlines until "baseurl:"
   BleRiFa is a toolset to simplify your rigging life !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://julienduroure.github.io/BleRiFa" # the base hostname & protocol for your site
+index:
+	en: /
+	fr: /fr/
 twitter_username: julienduroure
 github_username:  julienduroure
 

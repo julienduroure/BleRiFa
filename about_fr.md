@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about-fr/
 in_menu: Y
 sort: 4
-lang: en
+lang: fr
 ref: about
 ---
 
-About page :)
+About page in French:)

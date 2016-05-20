@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /
+permalink: /fr/
 in_menu: N
-lang: en
+lang: fr
 ref: home
 ---
 
-#What is BleRiFa ?
+#Qu'est ce que BleRiFa ?
 BleRiFa is a toolset to simplify your rigging life ! 
