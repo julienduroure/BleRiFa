@@ -8,5 +8,10 @@ lang: fr
 ref: about
 ---
 
-About page in French:)
-(Comme vous pouvez le voir, ce site est encore en construction)
+<img align='left' src='{{ site.baseurl }}/assets/img/julienduroure.jpg'>
+Mon nom est Julien Duroure.  
+Je vis à Toulouse, France.  
+  
+  
+Je suis Rigger, Animateur, développeur, et formateur Blender.  
+Mes sites sont [JulienDuroure.com](http://julienduroure.com), et [BleRiFa]({{site.baseurl}}) bien sûr!  

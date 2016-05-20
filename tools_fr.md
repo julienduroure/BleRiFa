@@ -8,5 +8,8 @@ lang: fr
 ref: tools
 ---
 
-Tool page in French :)  
-(Comme vous pouvez le voir, ce site est encore en construction)
+# Rigging
+
+# Animation
+
+# Interface

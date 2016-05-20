@@ -8,5 +8,12 @@ lang: en
 ref: about
 ---
 
-About page in English :)  
-(As you can see, this site is still under construction)
+
+<img align='left' src='{{ site.baseurl }}/assets/img/julienduroure.jpg'>
+My name is Julien Duroure.  
+I live in Toulouse, France.  
+  
+  
+I am a Rigger, Animator, Developper, and Blender Trainer.  
+My website are [JulienDuroure.com](http://julienduroure.com), and [BleRiFa]({{site.baseurl}}) of course!  
+

@@ -8,5 +8,9 @@ lang: en
 ref: tools
 ---
 
-Tool page in English :)  
-(As you can see, this site is still under construction)
+# Rigging
+
+# Animation
+
+# Interface
+
