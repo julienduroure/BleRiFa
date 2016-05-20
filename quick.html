@@ -1,0 +1,16 @@
+---
+layout: page
+permalink: /quick/
+title: Quick
+in_menu: Y
+sort: 3
+---
+
+<div class="posts"> 
+	{% assign posts=site.posts | where:"type", "quick" %}
+	{% for post in posts %}
+		<div>
+			{{ post.date | date_to_string }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+		</div>
+   {% endfor %} 
+</div> 
