@@ -33,6 +33,6 @@ Vous avez un problème ou une question ?
 * [Souscrivez à la newsletter]({{ site.baseurl }}/subscribe-fr/)
 
 # Comment aider ?
-Offez-moi un café !  
+Offrez-moi un café !  
   
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HLRL7ZPXN9J9E)
