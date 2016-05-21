@@ -31,6 +31,7 @@ Vous avez un problème ou une question ?
 
 * [Suivez-moi sur Twitter](https://twitter.com/{{ site.twitter_username }})
 * [Souscrivez à la newsletter]({{ site.baseurl }}/subscribe-fr/)
+* Abonnez-vous aux flux ([News]({{ site.baseurl }}/feed_fr.xml) ou [Brèves]({{ site.baseurl }}/feed_quick_fr.xml))
 
 # Comment aider ?
 Offrez-moi un café !  

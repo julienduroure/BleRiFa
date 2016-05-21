@@ -31,6 +31,7 @@ Running into a problem or have a question ?
 
 * [Follow me on Twitter](https://twitter.com/{{ site.twitter_username }})
 * [Subscribe to newsletter]({{ site.baseurl }}/subscribe/)
+* Subscribe to feeds ([News]({{ site.baseurl }}/feed.xml) or [Quick]({{ site.baseurl }}/feed_quick.xml))
 
 # How to help ?
 Buy me a coffee!  
