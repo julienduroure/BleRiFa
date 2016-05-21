@@ -1,0 +1,14 @@
+autorefspace:
+  version: v0.0.1
+  status:
+    fr: En développement
+    en: In development
+  description:
+    fr: Paramétrez automatiquement les espaces de référence de vos os
+    en: Auto choose your bone reference spaces
+  link:
+    fr: autorefspace_fr.md
+    en: autorefspace.md
+  img:
+    fr: autorefspace.png
+    en: autorefspace.png

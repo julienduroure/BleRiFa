@@ -8,9 +8,14 @@ lang: en
 ref: tools
 ---
 
-# Rigging
+Rigging
+-------
 
-# Animation
+# AutoRefSpace
 
-# Interface
+{% include tool.md tool="autorefspace" %}  
+
+## Animation
+
+## Interface
 

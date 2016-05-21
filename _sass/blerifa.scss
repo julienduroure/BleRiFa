@@ -123,3 +123,17 @@ img {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+.tool {
+    width: 100%;
+    background-color: lighten($background-color, 5%);
+    border-radius: 25px;
+    text-align: left;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.tool td {
+    width: 50%;
+}
