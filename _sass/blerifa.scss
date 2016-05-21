@@ -137,3 +137,17 @@ img {
 .tool td {
     width: 50%;
 }
+
+@media screen and (max-width: 640px) {
+	.tool td {
+		overflow-x: auto;
+		display: block;
+		width: 100%
+	}
+	
+	.tool th {
+		overflow-x: auto;
+		display: block;
+		width: 100%
+	}
+}

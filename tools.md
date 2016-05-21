@@ -8,14 +8,15 @@ lang: en
 ref: tools
 ---
 
-Rigging
--------
+## Rigging
 
-# AutoRefSpace
-
-{% include tool.md tool="autorefspace" %}  
+{% include tools.md cat="rigging" %}  
 
 ## Animation
 
+{% include tools.md cat="animation" %}  
+
 ## Interface
+
+{% include tools.md cat="interface" %}  
 
