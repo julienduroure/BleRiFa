@@ -8,6 +8,8 @@ lang: en
 ref: news
 ---
 
+Don't miss any news, follow our <a href="{{ site.baseurl }}/feed.xml">feed</a>!
+
 <div class="posts"> 
 	{% assign posts=site.posts | where:"type", "post" | where:"lang", page.lang %}
 	{% for post in posts %}

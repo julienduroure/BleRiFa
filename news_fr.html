@@ -8,6 +8,8 @@ lang: fr
 ref: news
 ---
 
+Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">flux RSS</a>!
+
 <div class="posts"> 
 	{% assign posts=site.posts | where:"type", "post" | where:"lang", page.lang %}
 	{% for post in posts %}

@@ -8,6 +8,9 @@ lang: en
 ref: quick
 ---
 
+Don't miss any quick info, follow our <a href="{{ site.baseurl }}/feed_quick.xml">quick feed</a>!  
+<br/>
+<br/>
 <div class="posts"> 
 	{% assign posts=site.posts | where:"type", "quick" | where:"lang", page.lang %}
 	{% for post in posts %}
