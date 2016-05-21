@@ -23,3 +23,5 @@ github_username:  julienduroure
 
 # Build settings
 markdown: kramdown
+
+exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/]
