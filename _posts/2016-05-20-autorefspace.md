@@ -11,6 +11,10 @@ version: 0.0.1
 status: In development
 description: Auto choose your bone reference spaces
 img: autorefspace.png
+getit_url: http://google.com
 ---
 
-coucou
+Welcome in main documentation page of AutoRefSpace!
+
+## Getting started
+TBC
