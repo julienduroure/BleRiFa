@@ -4,7 +4,7 @@ title: AutoRefSpace
 type: tool
 lang: fr
 ref: autorefspace
-permalink: /tools/AutoRefSpace/
+permalink: /tools/AutoRefSpace-fr/
 cat: rigging
 sort: 1
 version: 0.0.1
