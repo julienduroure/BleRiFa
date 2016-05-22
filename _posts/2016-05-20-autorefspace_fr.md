@@ -11,7 +11,11 @@ version: 0.0.1
 status: En développement
 description: Choisissez automatiquement l'espace de référence de vos os
 img: autorefspace.png
-getit_url: http://google.com
+getit_url:
+  - label: item 1
+    url: http://google.com/1
+  - label: item 2
+    url: http://google.com/2
 ---
 
 Bienvenu sur la documentation principale de l'addon AutoRefSpace !

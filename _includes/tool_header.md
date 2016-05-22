@@ -2,6 +2,6 @@
   
 | Version | {{ page.version }} |
 | status  | {{ page.description }} |
-| | [{{ site.data.trad["getit"][page.lang] }}](page.getit_url) |
+| | {% for url in page.getit_url %}{{ site.data.trad["getit"][page.lang] }} [{{url.label}}]({{ url.url}})<br/>{% endfor %} |
 {: class="tool_tab"}
 

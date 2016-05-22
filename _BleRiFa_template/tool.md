@@ -11,5 +11,9 @@ version: 0.0.1
 status: In development
 description: description
 img: 00.png
-getit_url: http://google.com
+getit_url:
+  - label: item 1
+    url: http://google.com/1
+  - label: item 2
+    url: http://google.com/2
 ---
