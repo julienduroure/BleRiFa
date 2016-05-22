@@ -4,7 +4,7 @@ title: Title
 type: tool
 lang: en
 ref: lang_ref
-permalink: /link/
+permalink: /tools/tool_name
 cat: rigging
 sort: 1
 version: 0.0.1

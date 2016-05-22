@@ -4,5 +4,5 @@ title: Title
 type: quick
 lang: en
 ref: lang_ref
-permalink: /link/
+permalink: :year/:month/:day/link/
 ---

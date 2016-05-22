@@ -4,7 +4,7 @@ title: Correction pour l'outil 'Recalculate Bone > Cursor'
 type: quick
 lang: fr
 ref: fix_recalc_bone_cursor
-permalink: /fix_recalc_cursor-fr/
+permalink: :year/:month/:day/fix_recalc_cursor-fr/
 ---
 
 Campbell vient juste de corriger un bug avec l'outil 'Recalculate Bone > Cursor'  

@@ -4,7 +4,7 @@ title: Bendy Bones
 type: quick
 lang: en
 ref: bendybones
-permalink: /BendyBones
+permalink: :year/:month/:day/BendyBones
 ---
 
 Some awesome new feature for Rigging, Bendy Bones :

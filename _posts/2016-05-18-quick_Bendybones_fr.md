@@ -4,7 +4,7 @@ title: Bendy Bones
 type: quick
 lang: fr
 ref: bendybones
-permalink: /BendyBones-fr
+permalink: :year/:month/:day/BendyBones-fr
 ---
 
 Amélioration extra pour le Rigging, les "Bendy Bones" :

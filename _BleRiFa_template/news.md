@@ -5,5 +5,5 @@ type: post
 lang: en
 ref: lang_ref
 img: 20000000_img.png
-permalink: /link/
+permalink: :year/:month/:day/link/
 ---
