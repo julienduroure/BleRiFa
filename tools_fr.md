@@ -8,8 +8,14 @@ lang: fr
 ref: tools
 ---
 
-# Rigging
+## Rigging
 
-# Animation
+{% include tools.md cat="rigging" %}  
 
-# Interface
+## Animation
+
+{% include tools.md cat="animation" %}  
+
+## Interface
+
+{% include tools.md cat="interface" %}  
