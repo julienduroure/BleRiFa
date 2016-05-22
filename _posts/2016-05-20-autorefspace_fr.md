@@ -2,19 +2,19 @@
 layout: tool
 title: AutoRefSpace
 type: tool
-lang: en
+lang: fr
 ref: autorefspace
 permalink: /tools/AutoRefSpace/
 cat: rigging
 sort: 1
 version: 0.0.1
-status: In development
-description: Auto choose your bone reference spaces
+status: En développement
+description: Choisissez automatiquement l'espace de référence de vos os
 img: autorefspace.png
 getit_url: http://google.com
 ---
 
-Welcome in main documentation page of AutoRefSpace!
+Bienvenu sur la documentation principale de l'addon AutoRefSpace !
 
-## Getting started
+## Pour démarrer
 TBC

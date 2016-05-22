@@ -124,6 +124,9 @@ img {
     margin-right: 10px;
 }
 
+/**
+ * Tool summary
+*/ 
 .tool {
     width: 100%;
     background-color: lighten($background-color, 5%);
@@ -150,4 +153,18 @@ img {
 		display: block;
 		width: 100%
 	}
+}
+
+/**
+ * Tool cartouche
+*/
+.tool_tab {
+	width: 70%;
+	background-color: lighten($background-color, 5%);
+    	border-radius: 25px;
+	padding: 10px;
+}
+
+.tool_tab > tbody > tr:first-child > td:first-child {
+	width-min: 50%
 }
