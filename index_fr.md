@@ -24,7 +24,6 @@ Ils fonctionnent peut être pour des versions plus anciennes, mais n'ont pas ét
 Vous avez un problème ou une question ?  
 
 * [Demandez-moi sur Twitter](https://twitter.com/{{ site.twitter_username }})
-* [Rapportez un bug](http://github.com/{{ site.github_username }})
 * [Demandez-moi par email](mailto:{{ site.email }})
 
 # Restez informés !
