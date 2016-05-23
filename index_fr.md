@@ -4,6 +4,7 @@ permalink: /fr/
 in_menu: N
 lang: fr
 ref: home
+type_banner: home
 ---
 
 ![AutoRefSpace exemple]({{ site.baseurl }}/assets/img/autorefspace.png)

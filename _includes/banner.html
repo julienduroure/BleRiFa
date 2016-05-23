@@ -1,0 +1,15 @@
+{% if page.type_banner == 'home' %}
+{% assign banners=site.posts | where:"type", "banner" | where:"where_display", "home" | where:"lang", page.lang %}
+{% for banner in banners %}
+{{banner.content}}
+{% endfor %}
+{% assign banners=site.posts | where:"type", "banner" | where:"where_display", "all" | where:"lang", page.lang %}
+{% for banner in banners %}
+{{banner.content}}
+{% endfor %}
+{% else %}
+{% assign banners=site.posts | where:"type", "banner" | where:"where_display", "all" | where:"lang", page.lang %}
+{% for banner in banners %}
+{{banner.content}}
+{% endfor %}
+{% endif %}

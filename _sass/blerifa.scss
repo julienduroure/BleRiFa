@@ -168,3 +168,11 @@ img {
 .tool_tab > tbody > tr:first-child > td:first-child {
 	width-min: 50%
 }
+
+/**
+ * Banner
+*/
+.banner {
+	text-align: center;
+	background-color: $brand-color;
+}
