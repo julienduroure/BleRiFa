@@ -25,3 +25,7 @@ github_username:  julienduroure
 markdown: kramdown
 
 exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/]
+
+collections:
+  - banners
+
