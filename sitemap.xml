@@ -26,4 +26,15 @@ permalink: /sitemap.xml
 		</url>
 	{% endif %}
 {% endfor %}
+{% for tool in site.tools %}
+	{% if tool.id contains "404" %}{% else %}
+		<url>
+			<loc>{{site.base}}{{tool.url}}</loc>
+			{% assign versions=site.tools | where:"ref",tool.ref %}
+			{% for version in versions %}
+				<xhtml:link rel="alternate" hreflang="{{version.lang}}" href="{{site.base}}{{version.url}}"/>
+			{% endfor %}
+		</url>
+	{% endif %}
+{% endfor %}
 </urlset>
