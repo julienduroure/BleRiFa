@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Bendy Bones
-type: quick
 lang: en
 ref: bendybones
-permalink: :year/:month/:day/BendyBones
+permalink: :year/:month/:day/quick/BendyBones
 ---
 
 Some awesome new feature for Rigging, Bendy Bones :

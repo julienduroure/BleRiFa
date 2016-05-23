@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Bendy Bones
-type: quick
 lang: fr
 ref: bendybones
-permalink: :year/:month/:day/BendyBones-fr
+permalink: :year/:month/:day/quick/BendyBones-fr
 ---
 
 Amélioration extra pour le Rigging, les "Bendy Bones" :

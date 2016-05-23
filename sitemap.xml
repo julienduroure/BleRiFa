@@ -14,6 +14,15 @@ ref: sitemap
 			{% endfor %}
 		</url>
 {% endfor %}
+{% for post in site.quick %}
+		<url>
+			<loc>{{site.base}}{{post.url}}</loc>
+			{% assign versions=site.posts | where:"ref", post.ref %}
+			{% for version in versions %}
+				<xhtml:link rel="alternate" hreflang="{{version.lang}}" href="{{site.base}}{{version.url}}"/>
+			{% endfor %}
+		</url>
+{% endfor %}
 {% for page in site.pages %}
 	{% if page.ref == 404 %}{% else %}
 		<url>

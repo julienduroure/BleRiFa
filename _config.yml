@@ -31,4 +31,6 @@ collections:
     output: false
   tools:
     output: true
+  quick:
+    output: true
 
