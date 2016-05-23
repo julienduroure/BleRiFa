@@ -16,6 +16,7 @@ Tous les Addons présentés concernent l'Animation et le Rigging.
   
 # Où les trouver ?
 La liste des Addons et leurs documentations sont disponibles sur la page des [Outils]({{ site.baseurl }}/tools-fr/).
+Tous les Addons sont publiés sous license libre, **mais**, si vous voulez m'aider à continer le développement, les acheter serait le mieux :)
 
 # Prérequis
 La plupart des Addons nécessite Blender 2.77 ou plus récent, et fonctionnent pour tous les systèmes d'exploitation.  

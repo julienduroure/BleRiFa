@@ -15,7 +15,8 @@ You will find on this website a collection of Blender Addons that will speedup y
 All addons are about Rigging or Animation.  
   
 # Where to find it ?
-Addons and documentation are available on [Tool page]({{ site.baseurl }}/tools/).
+Addons and documentation are available on [Tool page]({{ site.baseurl }}/tools/).  
+They are published under Open-source license, **but**, if you want to help me to continue their development, please consider buy them :)
 
 # Requirements
 Most of Addons requires 2.77 or newer, and will work on any operating system  
