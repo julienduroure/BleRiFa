@@ -2,6 +2,6 @@
   
 | Version | {{ page.version }} |
 | status  | {{ page.description }} |
-| | {% for url in page.getit_url %}{{ site.data.trad["getit"][page.lang] }} [{{url.label}}]({{ url.url}})<br/>{% endfor %} |
+| | {% if page.display_url == "Y" %}{% for url in page.getit_url %}{{ site.data.trad["getit"][page.lang] }} [{{url.label}}]({{ url.url}})<br/>{% endfor %} {% else %} *{{ site.data.trad["no_download"][page.lang] }}* {% endif %} |
 {: class="tool_tab"}
 

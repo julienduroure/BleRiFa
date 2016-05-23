@@ -4,3 +4,6 @@ getit:
 see_doc:
   fr: Voir la documentation
   en: See documentation
+no_download:
+  fr: Cet Addon n'est pas encore disponible publiquement
+  en: There is still no public version of this Addon
