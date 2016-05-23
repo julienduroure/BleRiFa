@@ -27,5 +27,8 @@ markdown: kramdown
 exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/]
 
 collections:
-  - banners
+  banners:
+    output: false
+  tools:
+    output: true
 
