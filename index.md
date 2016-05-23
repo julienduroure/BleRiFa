@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 permalink: /
 in_menu: N
 lang: en
