@@ -1,17 +1,17 @@
 ---
 layout: tool
-title: AutoRefSpace
+title: AutoSnap
 lang: fr
-ref: autorefspace
-permalink: /tools/AutoRefSpace-fr/
+ref: AutoSnap
+permalink: /tools/AutoSnap-fr/
 cat: rigging
-sort: 1
+sort: 2
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1
 dev_status: En développement
-description: Choisissez automatiquement l'espace de référence de vos os
-img: autorefspace.png
+description: Générez automatiquement vos Snap FK/IK 
+img: None_200.png
 getit_url:
   - label: item 1
     url: http://google.com/1
@@ -19,4 +19,5 @@ getit_url:
     url: http://google.com/2
 display_url: false
 ---
+
 
