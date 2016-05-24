@@ -2,12 +2,9 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title[page.lang] }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title[page.lang] }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
       </div>
@@ -23,7 +20,10 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{ site.description[page.lang] }}</p>
+        <ul class="contact-list">
+			<li>{{ site.copyright }}</li>
+			<li>Site powered by <a href="https://jekyllrb.com/">Jekyll</a></li>
+        </ul>
       </div>
     </div>
 
