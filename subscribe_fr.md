@@ -2,7 +2,7 @@
 layout: page
 permalink: /subscribe-fr/
 title: Subscribe
-in_menu: N
+in_menu: false
 lang: fr
 ref: subscribe
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about-fr/
-in_menu: Y
+in_menu: true
 sort: 4
 lang: fr
 ref: about

@@ -1,7 +1,7 @@
 ---
 layout: home
 permalink: /fr/
-in_menu: N
+in_menu: false
 lang: fr
 ref: home
 type_banner: home

@@ -14,7 +14,7 @@
       </a>
 
       <div class="trigger">
-		{% assign menu=site.pages | where:"in_menu", "Y" | where:"lang", page.lang | sort:'sort' %}
+		{% assign menu=site.pages | where:"in_menu", true | where:"lang", page.lang | sort:'sort' %}
         {% for my_page in menu %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>

@@ -2,7 +2,7 @@
 layout: page
 permalink: /tools/
 title: Tools
-in_menu: Y
+in_menu: true
 sort: 1
 lang: en
 ref: tools
