@@ -7,8 +7,10 @@ ref: autorefspace
 permalink: /tools/AutoRefSpace-fr/
 cat: rigging
 sort: 1
-version: 0.0.1
-status: En développement
+stable_version: N/A
+stable_status: Pas encore disponible
+dev_version: 0.0.1
+dev_status: En développement
 description: Choisissez automatiquement l'espace de référence de vos os
 img: autorefspace.png
 getit_url:

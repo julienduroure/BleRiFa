@@ -7,8 +7,10 @@ ref: autorefspace
 permalink: /tools/AutoRefSpace/
 cat: rigging
 sort: 1
-version: 0.0.1
-status: In development
+stable_version: N/A
+stable_status: Not yet released
+dev_version: 0.0.1
+dev_status: In development
 description: Auto choose your bone reference spaces
 img: autorefspace.png
 getit_url:

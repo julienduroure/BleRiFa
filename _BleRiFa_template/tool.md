@@ -6,8 +6,10 @@ ref: lang_ref
 permalink: /tools/tool_name/
 cat: rigging
 sort: 1
-version: 0.0.1
-status: In development
+stable_version: N/A
+stable_status: Not yet released
+dev_version: 0.0.1
+dev_status: In development
 description: description
 img: None_200.png
 getit_url:
