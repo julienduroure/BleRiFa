@@ -5,7 +5,6 @@ lang: fr
 ref: autorefspace
 permalink: /tools/AutoRefSpace-fr/
 cat: rigging
-sort: 1
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1

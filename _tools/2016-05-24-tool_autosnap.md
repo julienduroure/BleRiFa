@@ -5,7 +5,6 @@ lang: en
 ref: AutoSnap
 permalink: /tools/AutoSnap/
 cat: rigging
-sort: 2
 stable_version: N/A
 stable_status: Not yet released
 dev_version: 0.0.1

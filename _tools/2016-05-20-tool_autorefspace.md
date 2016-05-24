@@ -5,7 +5,6 @@ lang: en
 ref: autorefspace
 permalink: /tools/AutoRefSpace/
 cat: rigging
-sort: 1
 stable_version: N/A
 stable_status: Not yet released
 dev_version: 0.0.1
