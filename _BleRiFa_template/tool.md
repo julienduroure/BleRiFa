@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: tool
 title: Title
 lang: en
 ref: lang_ref
