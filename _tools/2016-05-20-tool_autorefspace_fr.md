@@ -16,7 +16,7 @@ getit_url:
     url: http://google.com/1
   - label: item 2
     url: http://google.com/2
-display_url: N
+display_url: true
 ---
 
 Bienvenu sur la documentation principale de l'addon AutoRefSpace !

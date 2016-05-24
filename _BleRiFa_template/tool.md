@@ -15,5 +15,5 @@ getit_url:
     url: http://google.com/1
   - label: item 2
     url: http://google.com/2
-display_url: N #N or Y
+display_url: false
 ---
