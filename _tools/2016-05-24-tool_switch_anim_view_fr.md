@@ -11,7 +11,7 @@ stable_status: Pas encore publié
 dev_version: 0.0.1
 dev_status: En développement
 description: Basculez entre GraphEditor/DopeSheet avec Z
-img: None_200.png
+img: SwitchAnimView.png
 getit_url:
   - label: item 1
     url: http://google.com/1
