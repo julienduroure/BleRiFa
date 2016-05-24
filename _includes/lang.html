@@ -8,4 +8,14 @@
 {% for page in pages %}
 	<span class="lang_item"><a href="{{ page.url | prepand: site.baseurl}}" class="{{ page.lang }}">{{ site.data.langdescr[page.lang] }}</a></span>
 {% endfor %} 
+
+{% assign tools=site.tools | where:"ref", page.ref | sort: 'lang' %} 
+{% for tool in tools %}
+	<span class="lang_item"><a href="{{ tool.url | prepand: site.baseurl}}" class="{{ tool.lang }}">{{ site.data.langdescr[tool.lang] }}</a></span>
+{% endfor %} 
+
+{% assign quicks=site.quick | where:"ref", page.ref | sort: 'lang' %} 
+{% for quick in quicks %}
+	<span class="lang_item"><a href="{{ quick.url | prepand: site.baseurl}}" class="{{ quick.lang }}">{{ site.data.langdescr[quick.lang] }}</a></span>
+{% endfor %} 
 </div> 
