@@ -5,18 +5,18 @@
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.twitter_username %}
+		  {% if site.twitter_username %}
           <li>
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+		  <li><a href="{{site.julienduroure}}">{{site.julienduroure}}</a></li>
+		  <li><a href="{{ site.baseurl }}{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a></li>
         </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
       </div>
 
       <div class="footer-col footer-col-3">

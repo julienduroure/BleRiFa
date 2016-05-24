@@ -15,13 +15,17 @@ description:
   fr: BleRiFa est une boite à outils pour le Rigging et l'Animation !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://julienduroure.github.io/BleRiFa" # the base hostname & protocol for your site
+
 index:
   en: /
   fr: /fr/
+  
 twitter_username: julienduroure
 github_username:  julienduroure
 analytics: false #false or UA_ID
+
 copyright: "&copy 2016 Julien Duroure / BleRiFa"
+julienduroure: http://julienduroure.com
 
 # Build settings
 markdown: kramdown
