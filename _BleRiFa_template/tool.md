@@ -9,7 +9,7 @@ sort: 1
 version: 0.0.1
 status: In development
 description: description
-img: 00.png
+img: None_200.png
 getit_url:
   - label: item 1
     url: http://google.com/1

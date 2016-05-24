@@ -4,6 +4,7 @@ title: Test 2 fr
 lang: fr
 ref: test2
 permalink: /:year/:month/:day/Test2-fr
+img: None_100.png
 ---
 
 Post 2 in French  
