@@ -10,7 +10,7 @@ stable_status: Pas encore publié
 dev_version: 0.0.1
 dev_status: En développement
 description: Générez automatiquement vos Snap FK/IK 
-img: None_200.png
+img: AutoSnap.png
 getit_url:
   - label: item 1
     url: http://google.com/1

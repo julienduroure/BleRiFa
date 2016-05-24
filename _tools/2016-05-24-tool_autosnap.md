@@ -10,7 +10,7 @@ stable_status: Not yet released
 dev_version: 0.0.1
 dev_status: In development
 description: Generate AutoSnapping tools for your FK/IK limbs
-img: None_200.png
+img: AutoSnap.png
 getit_url:
   - label: item 1
     url: http://google.com/1
