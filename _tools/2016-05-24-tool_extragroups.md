@@ -11,7 +11,7 @@ stable_status: Not yet released
 dev_version: 0.0.1
 dev_status: In development
 description: Manage your bone groups like a boss!
-img: None_200.png
+img: ExtraGroups.png
 getit_url:
   - label: item 1
     url: http://google.com/1
