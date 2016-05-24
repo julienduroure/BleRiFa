@@ -26,6 +26,7 @@ They may work on previous version, but they are not tested on it
 Running into a problem or have a question ?  
 
 * [Ask on Twitter](https://twitter.com/{{ site.twitter_username }})
+* [Report a bug](http://github.com/{{ site.github_username }}) 
 * [Ask me by email](mailto:{{ site.email }})
 
 # Stay informed
