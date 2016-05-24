@@ -3,7 +3,7 @@ layout: post
 title: Correction pour l'outil 'Recalculate Bone > Cursor'
 lang: fr
 ref: fix_recalc_bone_cursor
-permalink: :year/:month/:day/quick/fix_recalc_cursor-fr/
+permalink: /:year/:month/:day/quick/fix_recalc_cursor-fr/
 ---
 
 Campbell vient juste de corriger un bug avec l'outil 'Recalculate Bone > Cursor'  

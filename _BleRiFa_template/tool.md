@@ -3,7 +3,7 @@ layout: post
 title: Title
 lang: en
 ref: lang_ref
-permalink: /tools/tool_name
+permalink: /tools/tool_name/
 cat: rigging
 sort: 1
 version: 0.0.1

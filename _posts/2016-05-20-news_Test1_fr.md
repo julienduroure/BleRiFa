@@ -3,7 +3,7 @@ layout: post
 title: Test 1 fr
 lang: fr
 ref: test1
-permalink: :year/:month/:day/Test1-fr
+permalink: /:year/:month/:day/Test1-fr
 img: 20160520_start.png
 ---
 
