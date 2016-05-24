@@ -1,7 +1,6 @@
 ---
 layout: tool
 title: AutoRefSpace
-type: tool
 lang: fr
 ref: autorefspace
 permalink: /tools/AutoRefSpace-fr/
@@ -21,7 +20,3 @@ getit_url:
 display_url: false
 ---
 
-Bienvenu sur la documentation principale de l'addon AutoRefSpace !
-
-## Pour démarrer
-TBC

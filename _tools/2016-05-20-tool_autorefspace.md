@@ -1,7 +1,6 @@
 ---
 layout: tool
 title: AutoRefSpace
-type: tool
 lang: en
 ref: autorefspace
 permalink: /tools/AutoRefSpace/
@@ -21,8 +20,4 @@ getit_url:
 display_url: false
 ---
 
-Welcome in main documentation page of AutoRefSpace!
-
-## Getting started
-TBC
 
