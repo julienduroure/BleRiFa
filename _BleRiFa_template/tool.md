@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Title
-type: tool
 lang: en
 ref: lang_ref
 permalink: /tools/tool_name

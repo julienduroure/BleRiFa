@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Test 1 fr
-type: post
 lang: fr
 ref: test1
 permalink: :year/:month/:day/Test1-fr
