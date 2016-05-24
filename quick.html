@@ -13,7 +13,7 @@ Don't miss any quick info, follow our <a href="{{ site.baseurl }}/feed_quick.xm
 <br/>
 <div class="posts"> 
 	{% assign posts=site.quick | where:"lang", page.lang %}
-	{% for post in posts %}
+	{% for post in posts reversed %}
 		<div>
 			{{ post.date | date_to_string }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
 		</div>

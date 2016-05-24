@@ -12,7 +12,7 @@ Don't miss any news, follow our <a href="{{ site.baseurl }}/feed.xml">feed</a>!
 
 <div class="posts"> 
 	{% assign posts=site.posts | where:"lang", page.lang %}
-	{% for post in posts %}
+	{% for post in posts reversed %}
 	<article class="post"> 
 
 		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1> 
