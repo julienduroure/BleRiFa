@@ -13,3 +13,9 @@ latest_news:
 video_not_supported:
   fr: Le navigateur ne supporte pas les vidéos html5
   en: your browser doesn't support html5 videos
+stable_version:
+  fr: Version stable
+  en: Stable version
+dev_version:
+  fr: Version de dev
+  en: Dev version
