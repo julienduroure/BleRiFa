@@ -23,3 +23,16 @@ display_url: false
 If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
 # Pour démarrer
 Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/). 
+
+# Version History
+* v X.Y.Z  
+  * Date: XX XXXX 2016
+  * Change logs:
+    * zzzzzz
+	* zzzzzz
+# Historique des versions
+* v X.Y.Z  
+  * Date: XX XXXX 2016
+  * Changement:
+    * zzzzzz
+	* zzzzzz
