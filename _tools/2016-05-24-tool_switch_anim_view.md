@@ -27,6 +27,8 @@ This Addon is based on an idea of Hjalti Hjalmarsson. Many thanks!
 Purpose of this Addon is to be able to switch easily between *Graph Editor* and *DopeSheet*.  
 You can switch by pressing **Z**.  
 
+{% include html5video.html gif=true id="switch_anim_view.ogv" %}
+
 # Using this Addon
 Switch is active only when your mouse is over *Graph Editor* or *DopeSheet*.  
 Press **Z** to switch to *Graph Editor* if your mouse is over *DopeSheet*.  

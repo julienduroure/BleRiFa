@@ -26,6 +26,8 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.
 Cet addon a été développé en se basant sur une idée de Hjalti Hjalmarsson. Merci à lui !  
 Le but de cet Addon est de basculer du mode *Graph Editor* au *DopeSheet* à l'aide de la touche **Z**.  
 
+{% include html5video.html gif=true id="switch_anim_view.ogv" %}
+
 # Comment utiliser l'Addon
 On peut basculer uniquement lorsque la souris est présente sur une fenêtre *Graph Editor* ou *DopeSheet*.  
 Touche **Z** pour basculer sur le *Graph Editor* si la fenêtre courante est le *DopeSheet*.  
