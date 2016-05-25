@@ -20,4 +20,5 @@ getit_url:
 display_url: false
 ---
 
-
+# Pour démarrer
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  

@@ -18,3 +18,8 @@ getit_url:
     url: http://google.com/2
 display_url: false
 ---
+
+# Getting Started
+If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+# Pour démarrer
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/). 

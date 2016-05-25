@@ -19,3 +19,5 @@ getit_url:
 display_url: false
 ---
 
+# Getting Started
+If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
