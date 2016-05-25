@@ -8,7 +8,7 @@ cat: animation
 sort: 1
 stable_version: N/A
 stable_status: Not yet released
-dev_version: 0.0.1
+dev_version: 0.0.2
 dev_status: In development
 description: Manage your bone groups like a boss!
 img: ExtraGroups.png
