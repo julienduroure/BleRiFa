@@ -6,17 +6,15 @@ ref: SwitchAnimView
 permalink: /tools/SwitchAnimView/
 cat: interface
 sort: 1
-stable_version: N/A
+stable_version: 1.0.0
 stable_status: Not yet released
-dev_version: 0.0.1
-dev_status: In development
+dev_version: 1.0.0
+dev_status: Will be release very soon
 description: Switch between *Graph Editor* / *DopeSheet* with Z
 img: SwitchAnimView.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
+  - label: Github
+    url: https://github.com/julienduroure/SwitchAnimView
 display_url: false
 ---
 
