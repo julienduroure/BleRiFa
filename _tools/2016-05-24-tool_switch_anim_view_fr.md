@@ -10,7 +10,7 @@ stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1
 dev_status: En développement
-description: Basculez entre GraphEditor/DopeSheet avec Z
+description: Basculez entre *Graph Editor* / *DopeSheet* avec Z
 img: SwitchAnimView.png
 getit_url:
   - label: item 1
@@ -22,3 +22,18 @@ display_url: false
 
 # Pour démarrer
 Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+  
+Cet addon a été développé en se basant sur une idée de Hjalti Hjalmarsson. Merci à lui !  
+Le but de cet Addon est de basculer du mode *Graph Editor* au *DopeSheet* à l'aide de la touche **Z**.  
+
+# Comment utiliser l'Addon
+On peut basculer uniquement lorsque la souris est présente sur une fenêtre *Graph Editor* ou *DopeSheet*.  
+Touche **Z** pour basculer sur le *Graph Editor* si la fenêtre courante est le *DopeSheet*.  
+Touche **Z** pour basculer sur le *DopeSheet* si la fenêtre courante est le *Graph Editor*.  
+
+# Historique des versions
+* v X.Y.Z  
+  * Date: XX XXXX 2016
+  * Changement:
+    * zzzzzz
+	* zzzzzz
