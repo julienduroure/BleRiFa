@@ -10,7 +10,7 @@ stable_version: 1.0.0
 stable_status: Pas encore publié
 dev_version: 1.0.0
 dev_status: Sera publié très prochainement
-description: Basculez entre *Graph Editor* / *DopeSheet* avec Z
+description: Basculez entre Graph Editor / DopeSheet avec Z
 img: SwitchAnimView.png
 getit_url:
   - label: Github
