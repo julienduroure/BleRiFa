@@ -1,7 +1,6 @@
 ---
 layout: null
 lang: fr
-type: post
 ref: feed
 ---
 <?xml version="1.0" encoding="UTF-8"?>
@@ -14,7 +13,7 @@ ref: feed
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% assign posts=site.posts limit:10 | where:"type", page.type | where:"lang", page.lang %}
+    {% assign posts=site.posts limit:10 | where:"lang", page.lang %}
     {% for post in posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
