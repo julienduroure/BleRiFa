@@ -9,7 +9,7 @@ sort: 1
 stable_version: 1.0.0
 stable_status: Not yet released
 dev_version: 1.0.0
-dev_status: Will be release very soon
+dev_status: Will be released very soon
 description: Switch between Graph Editor / DopeSheet with Z
 img: SwitchAnimView.png
 getit_url:
@@ -20,7 +20,7 @@ display_url: false
 
 # Getting Started
 If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
-  
+
 This Addon is based on an idea of Hjalti Hjalmarsson. Many thanks!  
 Purpose of this Addon is to be able to switch easily between *Graph Editor* and *DopeSheet*.  
 You can switch by pressing **Z**.  
