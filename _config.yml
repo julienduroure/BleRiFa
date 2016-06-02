@@ -9,7 +9,7 @@
 title:
   fr: BleRiFa
   en: BleRiFa
-email: contact@blerifa.com
+email: blerifa@julienduroure.com
 description:
   en: BleRiFa is a toolset to simplify your rigging life !
   fr: BleRiFa est une boite à outils pour le Rigging et l'Animation !
@@ -19,7 +19,7 @@ url: "http://julienduroure.github.io/BleRiFa" # the base hostname & protocol for
 index:
   en: /
   fr: /fr/
-  
+
 twitter_username: julienduroure
 github_username:  julienduroure
 analytics: UA-78237982-1 #false or UA_ID
@@ -39,4 +39,3 @@ collections:
     output: true
   quick:
     output: true
-
