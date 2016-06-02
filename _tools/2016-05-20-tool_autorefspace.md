@@ -63,7 +63,7 @@ This will activate your Active Reference System. A dropdown list is now displaye
 ![Choose]({{site.base_url}}/assets/img/AutoRefSpace/choose_ref.png)  
 <br/>
 You can now change Reference Space for your bone.  
-Click on 'activate' again to go disable dynamic references.  
+Click on 'activate' again to disable dynamic references.  
 **Note that is mode is only used for tests. Do not try to insert keyframes on this dropdown list.**  
 Use 'Generation' to continue process, and be able to insert keyframes on Reference Space.
 
@@ -72,7 +72,7 @@ Use 'Generation' to continue process, and be able to insert keyframes on Referen
 ![Generate]({{site.base_url}}/assets/img/AutoRefSpace/generate.png)  
 <br/>
 Clicking on 'Generate' will create a new panel with dropdown list for all your Reference System (not only active one, as it can be with 'activate').  
-Corresponding dropdown lists are displayed only when bone is selected.  
+Corresponding dropdown lists are displayed only when bone(s) is/are selected.  
 <br/>
 ![choose_]({{site.base_url}}/assets/img/AutoRefSpace/generated_ref_choose.png)  
 <br/>
