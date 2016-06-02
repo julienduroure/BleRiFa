@@ -8,7 +8,7 @@ cat: animation
 sort: 1
 stable_version: N/A
 stable_status: Pas encore publié
-dev_version: 0.0.2
+dev_version: 0.0.3
 dev_status: En développement
 description: Gérez vos os facilement !
 img: ExtraGroups.png
