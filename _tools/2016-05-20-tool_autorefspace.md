@@ -50,7 +50,7 @@ There are multiple way to create a new system:
 * Bone: Bone that will have a dynamic Reference space
 * Reference Bones: List of Reference bones of bone 'Bone'. There is multiple way to fill them:  
   * Select all corresponding bones, and click on 'Fill from Selection'  
-  * Click on '+' button, and fill name of bone at bottom of list, or click on bone icon when your bone is selected.  
+  * Click on '+' button, and fill name of bone at bottom of list, or click on bone icon when your bone is active.  
 *  Reference Bone Labels: For each Reference Bone, you can choose a label that will be displayed in dropdown list. By default, labels are bone names.  
 ![System Detail]({{site.base_url}}/assets/img/AutoRefSpace/system_detail_2.png)  
 
@@ -58,12 +58,12 @@ There are multiple way to create a new system:
 
 ![Activate]({{site.base_url}}/assets/img/AutoRefSpace/active_autoref.png)  
 <br/>
-This will activate your Active Reference System. A dropdown list is now displayed (with labels filled).  
+This will activate your corresponding Reference System. A dropdown list is now displayed (with labels filled).  
 <br/>
 ![Choose]({{site.base_url}}/assets/img/AutoRefSpace/choose_ref.png)  
 <br/>
 You can now change Reference Space for your bone.  
-Click on 'activate' again to disable dynamic references.  
+Click on 'activate' again to disable dynamic references, and be able to perform modification on this system.  
 **Note that is mode is only used for tests. Do not try to insert keyframes on this dropdown list.**  
 Use 'Generation' to continue process, and be able to insert keyframes on Reference Space.
 
@@ -87,7 +87,7 @@ Once Generated, Reference systems can't be edited anymore. You have to click on 
 <br/>
 ![update]({{site.base_url}}/assets/img/AutoRefSpace/update.png)  
 <br/>
-**Once generated, this Addon is no more used, and you can now use RefSpace on all Blender installation, without need of install/share the addon with .blend file.**
+**Once generated, this Addon is no more used, and you can now use Reference Space changes on all Blender installation, without need of install/share the addon with .blend file.**
 
 ### Addon Preferences
 
