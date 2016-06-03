@@ -7,20 +7,20 @@ permalink: /tools/SwitchAnimView-fr/
 cat: interface
 sort: 1
 stable_version: 1.0.0
-stable_status: Pas encore publié
-dev_version: 1.0.0
-dev_status: Sera publié très prochainement
+stable_status: Publiée le 03/06/2016
+dev_version: N/A
+dev_status: Pas de développement en cours
 description: Basculez entre Graph Editor / DopeSheet avec Z
 img: SwitchAnimView.png
 getit_url:
-  - label: Github
-    url: https://github.com/julienduroure/SwitchAnimView
-display_url: false
+  - label: Google Drive
+    url: https://drive.google.com/open?id=0B-mpivl1jPpuRnZ6b1Bxc3VDcFU
+display_url: true
 ---
 
 # Pour démarrer
 Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
-  
+
 Cet addon a été développé en se basant sur une idée de Hjalti Hjalmarsson. Merci à lui !  
 Le but de cet Addon est de basculer du mode *Graph Editor* au *DopeSheet* à l'aide de la touche **Z**.  
 
@@ -31,9 +31,11 @@ On peut basculer uniquement lorsque la souris est présente sur une fenêtre *Gr
 Touche **Z** pour basculer sur le *Graph Editor* si la fenêtre courante est le *DopeSheet*.  
 Touche **Z** pour basculer sur le *DopeSheet* si la fenêtre courante est le *Graph Editor*.  
 
+# Comment rapporter un bug ?
+Vous pouvez le faire sur le [Tracker](https://github.com/julienduroure/SwitchAnimView/issues/)
+
 # Historique des versions
-* v X.Y.Z  
-  * Date: XX XXXX 2016
+* v 1.0.0  
+  * Date: 03 Juin 2016
   * Changement:
-    * zzzzzz
-	* zzzzzz
+    * Version initiale
