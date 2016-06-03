@@ -6,9 +6,9 @@ ref: mirrorshapekey
 permalink: /tools/MirrorShapeKey-fr/
 cat: mesh
 stable_version: N/A
-stable_status: Not yet released
+stable_status: Pas encore publié
 dev_version: 0.0.1
-dev_status: In development
+dev_status: En développement
 description: Appliquer le modificateur mirror sur des mesh avec Shape Keys
 img: MirrorShapKeys.png
 getit_url:
