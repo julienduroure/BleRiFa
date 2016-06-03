@@ -21,3 +21,8 @@ display_url: false
 
 # Getting Started
 If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+
+# Overview
+AutoSnap is an Addon that will create for you FK/IK snapping stuff, and more:  
+
+{% include html5video.html id="AutoSnap_1.ogv" %}
