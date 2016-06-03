@@ -23,7 +23,7 @@ display_url: false
 If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
 
 ## Overview
-{% include html5video.html id="AutoRefSpace_1.ogv" gif=true %}
+{% include html5video.html id="AutoRefSpace_1.ogv" %}
 
 ## Reference System
 
