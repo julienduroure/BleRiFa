@@ -33,11 +33,10 @@ Cet Addon permet de créer des groupes d'os, et de les manipuler de différences
 * Afficher / Masquer le groupe  
 * Ne pas animer ce groupe (*Mute*)  
 
-{% include html5video.html id="ExtraGroups_1.ogv" gif=true %}
+{% include html5video.html id="ExtraGroups_1.ogv" %}
 
 De nombreuses autres fonctionnalités ne sont pas présentées dans cette petite vidéo :  
 
 * Réaliser l'action sur les os sélectionnés au lieu d'un groupe donné  
-* Choix des actions visibles (icones)  
 * Création de scripts pour coder facilement vos propres actions  
 * ...  

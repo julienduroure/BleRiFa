@@ -33,11 +33,10 @@ This Addon creates some groups of bones, and you can manage your groups:
 * Show / Hide bones  
 * Mute bone animations  
 
-{% include html5video.html id="ExtraGroups_1.ogv" gif=true %}
+{% include html5video.html id="ExtraGroups_1.ogv" %}
 
 Lots of features are not displayed on this introduction video :  
 
 * Use current selection instead of bone group  
-* Choose ordre and icons of actions  
 * Create easily your own actions  
 * ...  
