@@ -27,6 +27,7 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.
 Il n'y a pas de documentation officielle pour cet Addon, le développement étant toujours en cours.  
 
 Cet Addon permet de créer des groupes d'os, et de les manipuler de différences façons:  
+
 * Sélection (ajouter/retirer/sélectionner seulement ce groupe)  
 * Rendre non sélectionnable le groupe  
 * Afficher / Masquer le groupe  
@@ -35,6 +36,7 @@ Cet Addon permet de créer des groupes d'os, et de les manipuler de différences
 {% include html5video.html id="ExtraGroups_1.ogv" gif=true %}
 
 De nombreuses autres fonctionnalités ne sont pas présentées dans cette petite vidéo :  
+
 * Réaliser l'action sur les os sélectionnés au lieu d'un groupe donné  
 * Choix des actions visibles (icones)  
 * Création de scripts pour coder facilement vos propres actions  

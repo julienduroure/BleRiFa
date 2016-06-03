@@ -27,6 +27,7 @@ If you don't know how to install Addon, read [following documentation]({{site.ba
 There is currently no official documentation of this Addon, development is in progress.  
 
 This Addon creates some groups of bones, and you can manage your groups:  
+
 * Selection stuff (add/remove/toogle)  
 * Make bones not selectable  
 * Show / Hide bones  
@@ -35,6 +36,7 @@ This Addon creates some groups of bones, and you can manage your groups:
 {% include html5video.html id="ExtraGroups_1.ogv" gif=true %}
 
 Lots of features are not displayed on this introduction video :  
+
 * Use current selection instead of bone group  
 * Choose ordre and icons of actions  
 * Create easily your own actions  
