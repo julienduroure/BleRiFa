@@ -27,4 +27,4 @@ If you don't know how to install Addon, read [following documentation]({{site.ba
 This addon is in an early (really early) development stage.  
 Here is a quick sneakpeek:  
 
-{% include html5video.html gif=true id="MirrorShapeKeys.ogv" %}
+{% include html5video.html id="MirrorShapeKeys.ogv" %}

@@ -27,4 +27,4 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.
 Ce développement n'est pas encore stable, et en est au tout début.  
 Mais voici quand même une présentation rapide :  
 
-{% include html5video.html gif=true id="MirrorShapeKeys.ogv" %}
+{% include html5video.html id="MirrorShapeKeys.ogv" %}
