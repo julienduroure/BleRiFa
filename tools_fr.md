@@ -3,6 +3,7 @@ layout: page
 permalink: /tools-fr/
 title: Outils
 in_menu: true
+menu_main: true
 sort: 1
 lang: fr
 ref: tools

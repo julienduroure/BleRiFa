@@ -6,7 +6,7 @@
 /**
  * Resp table
  */
- 
+
 .resptable {
 	width:100% ;
 	text-align:center;
@@ -50,7 +50,7 @@
 		display: block;
 		width: 100%
 	}
-	
+
 	.resptable th {
 		overflow-x: auto;
 		display: block;
@@ -89,7 +89,7 @@ article .post {
 
 
 
-/** 
+/**
  * Override footer and header
 */
 
@@ -131,7 +131,7 @@ img {
 
 /**
  * Tool summary
-*/ 
+*/
 .tool {
     width: 100%;
     background-color: lighten($background-color, 5%);
@@ -152,7 +152,7 @@ img {
 		display: block;
 		width: 100%
 	}
-	
+
 	.tool th {
 		overflow-x: auto;
 		display: block;
@@ -188,4 +188,7 @@ img {
 .latest_news {
 	background-color: darken($background-color, 3%);
 	padding-bottom : 10px;
+}
+.menu_main {
+  font-weight: bold;
 }

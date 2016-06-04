@@ -17,7 +17,11 @@
 		{% assign menu=site.pages | where:"in_menu", true | where:"lang", page.lang | sort:'sort' %}
         {% for my_page in menu %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% if my_page.menu_main == true %}
+              <a class="page-link menu_main" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% else %}
+              <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% endif %}
           {% endif %}
         {% endfor %}
       </div>
