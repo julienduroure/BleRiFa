@@ -22,7 +22,7 @@ index:
 
 twitter_username: julienduroure
 github_username:  julienduroure
-analytics: UA-35258207-7 #false or UA_ID
+analytics: false #false or UA_ID
 
 copyright: "&copy 2016 Julien Duroure / BleRiFa"
 julienduroure: http://julienduroure.com
@@ -30,7 +30,7 @@ julienduroure: http://julienduroure.com
 # Build settings
 markdown: kramdown
 
-exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/, _dev.yml]
+exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/]
 
 collections:
   banners:
