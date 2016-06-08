@@ -36,7 +36,7 @@ Press **Z** to switch to *DopeSheet* if your mouse is over *Graph Editor*.
 You can report bugs on [Issue Tracker](https://github.com/julienduroure/SwitchAnimView/issues/)
 
 # Version History
-* v 1.0.1
+* v 1.0.0
   * Date: June, 3rd 2016
   * Change logs:
     * Initial Release
