@@ -24,6 +24,8 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.
 
 # Aperçu
 
+{% include html5video.html id="BoneChainRenamer.ogv" %}
+
 # Comment ça marche
 
 * Il faut tout d'abord renommer l'os racine de votre première chaine : par exemple *finger.R*  
@@ -42,13 +44,20 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.
   * Les chaines sont numérotées dans l'ordre alphabétique de leur os racine respectif. Vous pouvez au préalable les renommer  *a, b, c, ...* si vous voulez choisir l'ordre des chaines.  
 <br/>
   * Pour chaque chaine, le renommage s'arrête lorsqu'un os a plusieurs enfants.  
+<br/>
+![Stop when forks]({{site.base_url}}/assets/img/BoneChainRenamer/stop_when_forks.png)
+<br/>
 
 # Préférences
+
+![Preferences]({{site.base_url}}/assets/img/BoneChainRenamer/preferences.png)
 
 * *Séparator* : *Underscore* par défaut. La chaine de caractère utilisée pour séparer le nom de la chaine et son numéro  
 <br/>
 * *Count* : Comment les chaines sont numérotées/identifiées. Numérique par défaut : *finger_0.R, finger_1.R, finger_2.R*, etc...  
 Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R*, etc...  
+<br/>
+![With letters]({{site.base_url}}/assets/img/BoneChainRenamer/with_letters.png)
 <br/>
 * *No count when single chain rename*: Si un seul os est sélectionné, il est possible de le renommer *finger.R* au lieu de *finger_0.R*  
 <br/>
