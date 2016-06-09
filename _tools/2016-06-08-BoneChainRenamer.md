@@ -62,6 +62,3 @@ It can be changed to alphanumeric: *finger_a.R, finger_b.R, finger_c.R*, etc...
 * No count when single chain rename: If you select only 1 root bone, you can choose if bones will be renamed *finger_0.R*, or only *finger.R*  
 <br/>
 * Stop chain when bone is not connected: You can choose if renaming stops when a bone is not connected to its parent, or if renaming continue until a bone has no child (connected or not)
-
-# How to report bugs ?
-You can report bugs on [Issue Tracker](https://github.com/julienduroure/BoneChainRenamer/issues/)

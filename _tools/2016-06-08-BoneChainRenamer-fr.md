@@ -62,6 +62,3 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 * *No count when single chain rename*: Si un seul os est sélectionné, il est possible de le renommer *finger.R* au lieu de *finger_0.R*  
 <br/>
 * *Stop chain when bone is not connected* : Il est possible de choisir si le renommage s'arrête si un os est parenté mais non connecté à son parent, ou bien si la chaine continue jusqu'à ce qu'un os n'est pas d'enfant.
-
-# Comment rapporter un bug ?
-Vous pouvez le faire sur le [Tracker](https://github.com/julienduroure/BoneChainRenamer/issues/)
