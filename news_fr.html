@@ -10,17 +10,17 @@ ref: news
 
 Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">flux RSS</a>!
 
-<div class="posts"> 
+<div class="posts">
 	{% assign posts=site.posts | where:"lang", page.lang %}
-	{% for post in posts reversed %}
-	<article class="post"> 
+	{% for post in posts %}
+	<article class="post">
 
-		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1> 
-			<div class="entry"> 
+		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+			<div class="entry">
 				{% if post.img %}<a href="{{ site.baseurl }}{{ post.url }}"><img align="left" src="{{ site.baseurl }}/assets/post/{{post.img}}"/></a>{% endif %}{{ post.excerpt }}
-			</div> 
-		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lire l'article</a> 
-		
-	</article> 
-   {% endfor %} 
-</div> 
+			</div>
+		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Lire l'article</a>
+
+	</article>
+   {% endfor %}
+</div>
