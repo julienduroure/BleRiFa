@@ -30,7 +30,7 @@ julienduroure: http://julienduroure.com
 # Build settings
 markdown: kramdown
 
-exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/]
+exclude: [Gemfile, Gemfile.lock, _BleRiFa_template/, _banners_old, TODO.txt]
 
 collections:
   banners:
