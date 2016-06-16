@@ -7,4 +7,4 @@ ref: banner_1
 where_display: all #home or all
 ---
 
-Bienvenue sur [BleRifa]({{site.base_url}}) ! Découvrez nos [outils]({{site.base_url}}/tools-fr/).
+Bienvenue sur [BleRifa]({{site.base_url}}/) ! Découvrez nos [outils]({{site.base_url}}/tools-fr/).

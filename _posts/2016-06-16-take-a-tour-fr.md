@@ -7,10 +7,10 @@ img: 20160616_take_a_tour.png
 permalink: /:year/:month/:day/Visite-guidee/
 ---
 
-Le site [BleRiFa]({{site.base_url}}) est maintenant en ligne depuis quelques jours, il est temps de faire une petite visite guidée !
+Le site [BleRiFa]({{site.base_url}}/) est maintenant en ligne depuis quelques jours, il est temps de faire une petite visite guidée !
 
 ## BleRiFa
-[BleRiFa]({{site.base_url}}) est un [ensemble d'Addons pour Blender concernant le Rigging et l'animation]({{site.base_url}}/tools/).  
+[BleRiFa]({{site.base_url}}/) est un [ensemble d'Addons pour Blender concernant le Rigging et l'animation]({{site.base_url}}/tools/).  
 
 ## Addons
 Voici la liste des Addons suffisamment avancés pour pouvoir vous les présenter :
@@ -55,7 +55,7 @@ Les Addons sont (ou seront) publiés sous licence opensource. **Mais**, si vous 
 
 
 ## Et ensuite ?
-Les prochaines étapes pour [BleRiFa]({{site.base_url}}):  
+Les prochaines étapes pour [BleRiFa]({{site.base_url}}/):  
 
 * Continuer le développement, publier des versions *beta*, puis des version finales de tous les addons déjà présentés.
 * Continuer / démarrer le développement de plusieurs autres addons qui ne sont pas annoncés pour le moment.
@@ -66,7 +66,7 @@ Vous êtes Rigger ou Animateur ? Vous êtes freelance ou avez un niveau avancé 
 * Vous voulez être beta-testeur ?
 * Discuter de fonctionnalités manquantes ?
 * Rapporter un bug ?
-* Ou bien ... n'importe quoi d'autre à propos de [BleRiFa]({{site.base_url}})?  
+* Ou bien ... n'importe quoi d'autre à propos de [BleRiFa]({{site.base_url}}/)?  
 
 **Contactez moi par [Twitter](https://twitter.com/{{ site.twitter_username }}) ou par [email](mailto:{{ site.email }})**
 

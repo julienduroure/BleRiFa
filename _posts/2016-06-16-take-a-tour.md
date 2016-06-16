@@ -7,10 +7,10 @@ img: 20160616_take_a_tour.png
 permalink: /:year/:month/:day/Take-a-tour/
 ---
 
-So, [BleRiFa]({{site.base_url}}) is now online for a few days: time to take a tour!
+So, [BleRiFa]({{site.base_url}}/) is now online for a few days: time to take a tour!
 
 ## BleRiFa
-[BleRiFa]({{site.base_url}}) is a toolset of [Rigging & Animation addons for Blender]({{site.base_url}}/tools/).  
+[BleRiFa]({{site.base_url}}/) is a toolset of [Rigging & Animation addons for Blender]({{site.base_url}}/tools/).  
 
 ## Addons
 Here is list of addons currently available, or *'ready enough'* to have a look on them:
@@ -55,7 +55,7 @@ Addons are (or will be) released under opensource licence. **But**, if you want 
 
 
 ## What's next
-Next steps for [BleRiFa]({{site.base_url}}):  
+Next steps for [BleRiFa]({{site.base_url}}/):  
 
 * Continue development, release beta version, and final version of previously described addons
 * Continue / Start development on several projects that are currently not announced.
@@ -66,7 +66,7 @@ You are a rigger or animator? You are freelance or have an advanced level? You w
 * Want to beta test?
 * Want to discuss about missing features?
 * Want to report bugs?
-* Want to ... something else about [BleRiFa]({{site.base_url}})?  
+* Want to ... something else about [BleRiFa]({{site.base_url}}/)?  
 
 **Contact me by [Twitter](https://twitter.com/{{ site.twitter_username }}) or [email](mailto:{{ site.email }})**
 
