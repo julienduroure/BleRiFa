@@ -5,7 +5,6 @@ lang: en
 ref: SwitchAnimView
 permalink: /tools/SwitchAnimView/
 cat: interface
-sort: 1
 stable_version: 1.0.0
 stable_status: Released on 06/03/16
 dev_version: N/A
