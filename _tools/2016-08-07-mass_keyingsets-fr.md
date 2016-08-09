@@ -5,10 +5,10 @@ lang: fr
 ref: masskeyingsets
 permalink: /tools/MassKeyingSets-fr/
 cat: animation
-stable_version: N/A
-stable_status: Pas encore de version stable
-dev_version: 0.0.2
-dev_status: En développment
+stable_version: 0.1.0 (version beta)
+stable_status: Version beta disponible publiquement
+dev_version: 0.1.0
+dev_status: En développment / stabilisation
 description: Création de KeyingSets en masse
 img: MassKeyingSets.png
 getit_url:
