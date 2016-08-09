@@ -12,11 +12,9 @@ dev_status: En développment
 description: Création de KeyingSets en masse
 img: MassKeyingSets.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+- label: Google Drive
+  url: https://drive.google.com/open?id=0B-mpivl1jPpuNUJGYmVVeGVDSDQ
+display_url: true
 ---
 
 ## Pour démarrer
