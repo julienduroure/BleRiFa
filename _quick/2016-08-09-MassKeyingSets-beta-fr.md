@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Launch of MassKeyingSets beta version
-lang: en
+title: MassKeyingSets disponible en version beta
+lang: fr
 ref: MassKeyingSetsBetaLaunch
-permalink: /:year/:month/:day/MassKeyingSets-beta/
+permalink: /:year/:month/:day/MassKeyingSets-beta-fr/
 ---
 
-A new tool, [MassKeyingSets]({{ site.baseurl }}/tools/MassKeyingSets), is now available on beta version on [BleRiFa]({{ site.baseurl }}/)
+Un nouvel addon, [MassKeyingSets]({{ site.baseurl }}/tools/MassKeyingSets-fr), est disponible en version beta sur [BleRiFa]({{ site.baseurl }}/) !
