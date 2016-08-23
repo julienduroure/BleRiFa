@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MassKeyingSets est disponible en versino beta
+title: MassKeyingSets est disponible en version beta
 lang: fr
 ref: MassKeyingSets-beta
 img: 20160809_MassKeyingSets.png
