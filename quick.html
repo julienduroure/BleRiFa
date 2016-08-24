@@ -8,14 +8,14 @@ lang: en
 ref: quick
 ---
 
-Don't miss any quick info, follow our <a href="{{ site.baseurl }}/feed_quick.xml">quick feed</a>!  
+Don't miss any quick info, follow our <a href="{{ site.baseurl }}/feed_quick.xml">quick feed</a>!
 <br/>
 <br/>
-<div class="posts"> 
+<div class="posts">
 	{% assign posts=site.quick | where:"lang", page.lang %}
 	{% for post in posts reversed %}
 		<div>
-			<span style="min-width:112px;display: inline-block;">{% include date.html date=post.date %}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> 
+			<span style="min-width:112px;display: inline-block;">{% include date.html date=post.date %}</span> - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
 		</div>
-   {% endfor %} 
-</div> 
+   {% endfor %}
+</div>
