@@ -15,5 +15,5 @@ La documentation et le lien pour le téléchargement se trouvent ici : [MassKeyi
 
 ![MassKeyingSets]({{site.base_url}}/assets/img/MassKeyingSets/popup_bones.png)
 
-[1]: {{ site.baseurl }}/tools/MassKeyingSets
+[1]: {{ site.baseurl }}/tools/MassKeyingSets-fr
 [2]: {{ site.baseurl }}/
