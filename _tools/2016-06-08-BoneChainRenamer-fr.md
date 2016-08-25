@@ -20,7 +20,7 @@ display_url: false
 ---
 
 # Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 # Aperçu
 
@@ -62,3 +62,6 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 * *No count when single chain rename*: Si un seul os est sélectionné, il est possible de le renommer *finger.R* au lieu de *finger_0.R*  
 <br/>
 * *Stop chain when bone is not connected* : Il est possible de choisir si le renommage s'arrête si un os est parenté mais non connecté à son parent, ou bien si la chaine continue jusqu'à ce qu'un os n'est pas d'enfant.
+
+
+[1]: {{site.base_url}}/AddonInstallation-fr/

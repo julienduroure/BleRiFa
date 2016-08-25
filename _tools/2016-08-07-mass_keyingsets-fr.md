@@ -18,7 +18,7 @@ display_url: true
 ---
 
 ## Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 ## Aperçu
 
@@ -60,4 +60,7 @@ Toutes les propriétés personnalisées de tous les *data* des objects sélectio
 Au niveau *Mesh* pour un objet avec maillage, au niveau *Curve* pour une courbe, etc...
 
 ## Comment rapporter un bug ou demander une nouvelles fonctionnalité ?
-Vous pouvez le faire sur le [Tracker](https://github.com/julienduroure/MassKzeyingSets/issues/)
+Vous pouvez le faire sur le [Tracker][2]
+
+[1]: {{site.base_url}}/AddonInstallation-fr/
+[2]: https://github.com/julienduroure/MassKzeyingSets/issues/

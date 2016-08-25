@@ -18,10 +18,12 @@ display_url: true
 ---
 
 # Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 # Aperçu
 
 {% include html5video.html id='FootRollBreak.ogv' %}  
 <br/>
 Cette page n'est pas encore traduite, mais mon anglais est parfaitement compréhensible :)
+
+[1]: {{site.base_url}}/AddonInstallation-fr/

@@ -18,7 +18,7 @@ display_url: true
 ---
 
 # Getting Started
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 
 # FootRollBreak
 FootRollBreak is an addon that enhance Rigify rigs, adding FootRollBreak feature on existing rigify rigs.  
@@ -73,7 +73,7 @@ FootRollBreak let's your foot have a natural fold / unfold when you roll it.
 Current version works only on biped rigify (default Rigify Rigs for example), but doesn't work with one-leg rigs, or more-than-2-legs rigs.
 
 # How to report bugs ?
-You can report bugs on [Issue Tracker](https://github.com/julienduroure/FootRollBreak/issues/)
+You can report bugs on [Issue Tracker][2]
 
 
 # Version History
@@ -81,3 +81,6 @@ You can report bugs on [Issue Tracker](https://github.com/julienduroure/FootRoll
   * Date: 25 MARCH 2016
   * Change logs:
     * Initial release
+
+[1]: {{site.base_url}}/AddonInstallation/
+[2]: https://github.com/julienduroure/FootRollBreak/issues/

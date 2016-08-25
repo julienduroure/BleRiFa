@@ -20,9 +20,11 @@ display_url: false
 ---
 
 # Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 # Aperçu
 AutoSnap est un Addon qui va créer pour vous le code de *Snapping FK/IK*, et bien plus. Voici une petite vidéo de présentation :  
 
 {% include html5video.html id="AutoSnap_1.ogv" %}
+
+[1]: {{site.base_url}}/AddonInstallation-fr/

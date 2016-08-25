@@ -14,5 +14,9 @@ Je vis à Toulouse, France.
 
 
 Je suis Rigger, Animateur, développeur, et formateur Blender.  
-Mes sites sont [JulienDuroure.com](http://julienduroure.com), et [BleRiFa]({{site.baseurl}}) bien sûr!  
-Je suis également membre du [collectif RGBa](http://rgba.fr).
+Mes sites sont [JulienDuroure.com][1], et [BleRiFa][2] bien sûr!  
+Je suis également membre du [collectif RGBa][3].
+
+[1]: http://julienduroure.com
+[2]: {{site.baseurl}}
+[3]: http://rgba.fr

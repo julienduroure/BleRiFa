@@ -20,7 +20,7 @@ display_url: false
 ---
 
 ## Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 ## Vue d'ensemble
 {% include html5video.html id="AutoRefSpace_1.ogv" %}
@@ -87,3 +87,5 @@ Une fois générés, les systèmes de référence ne peuvent plus être modifiab
 ![update]({{site.base_url}}/assets/img/AutoRefSpace/update.png)  
 <br/>
 **Une fois généré, cet Addon n'est plus utile, et vous pouvez utiliser les changements d'espace de référence sur toutes les installations de Blender, sans avoir besoin d'installer/de partager cet Addon avec vous fichier .blend.**
+
+[1]: {{site.base_url}}/AddonInstallation-fr/

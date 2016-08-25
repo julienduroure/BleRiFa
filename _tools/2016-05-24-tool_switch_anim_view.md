@@ -18,7 +18,7 @@ display_url: true
 ---
 
 # Getting Started
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 
 This Addon is based on an idea of Hjalti Hjalmarsson. Many thanks!  
 Purpose of this Addon is to be able to switch easily between *Graph Editor* and *DopeSheet*.  
@@ -32,10 +32,13 @@ Press **Z** to switch to *Graph Editor* if your mouse is over *DopeSheet*.
 Press **Z** to switch to *DopeSheet* if your mouse is over *Graph Editor*.  
 
 # How to report bugs ?
-You can report bugs on [Issue Tracker](https://github.com/julienduroure/SwitchAnimView/issues/)
+You can report bugs on [Issue Tracker][2]
 
 # Version History
 * v 1.0.0
   * Date: June, 3rd 2016
   * Change logs:
     * Initial Release
+
+[1]: {{site.base_url}}/AddonInstallation/
+[2]: https://github.com/julienduroure/SwitchAnimView/issues/

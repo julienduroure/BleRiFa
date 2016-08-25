@@ -20,15 +20,15 @@ display_url: false
 ---
 
 # Getting Started
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 # Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].
 
 # How to report bugs or request new features ?
-You can report bugs on [Issue Tracker](https://github.com/julienduroure/XXXXX/issues/)
+You can report bugs on [Issue Tracker][2]
 
 # Comment rapporter un bug ou demander une nouvelles fonctionnalité ?
-Vous pouvez le faire sur le [Tracker](https://github.com/julienduroure/XXXXX/issues/)
+Vous pouvez le faire sur le [Tracker][2]
 
 # Version History
 * v X.Y.Z  
@@ -42,3 +42,7 @@ Vous pouvez le faire sur le [Tracker](https://github.com/julienduroure/XXXXX/iss
   * Changement:
     * zzzzzz
 	* zzzzzz
+
+[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/AddonInstallation-fr/
+[2]: https://github.com/julienduroure/XXXXX/issues/

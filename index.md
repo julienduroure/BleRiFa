@@ -7,7 +7,7 @@ ref: home
 type_banner: home
 ---
 
-[![AutoRefSpace example]({{ site.baseurl }}/assets/img/autorefspace.png)]({{site.base_url}}/tools/)
+[![AutoRefSpace example]({{ site.baseurl }}/assets/img/autorefspace.png)][1]
 
 # What is BleRiFa ?
 BleRiFa is a toolset to simplify your rigging life!  
@@ -15,7 +15,7 @@ You will find on this website a collection of Blender Addons that will speedup y
 All addons are about Rigging or Animation.  
 
 # Where to find it ?
-Addons and documentation are available on [Tool page]({{ site.baseurl }}/tools/).  
+Addons and documentation are available on [Tool page][2].  
 They are published under Open-source license, **but**, if you want to help me to continue their development, please consider buy them :)
 
 # Requirements
@@ -25,17 +25,27 @@ They may work on previous version, but they are not tested on it
 # Getting Support
 Running into a problem or have a question ?  
 
-* [Ask on Twitter](https://twitter.com/{{ site.twitter_username }})
-* [Report a bug](http://github.com/{{ site.github_username }})
-* [Ask me by email](mailto:{{ site.email }})
+* [Ask on Twitter][3]
+* [Report a bug][4]
+* [Ask me by email][5]
 
 # Stay informed
 
-* [Follow me on Twitter](https://twitter.com/{{ site.twitter_username }})
-* [Subscribe to newsletter]({{ site.baseurl }}/subscribe/)
-* Subscribe to feeds ([News]({{ site.baseurl }}/feed.xml) or [Quick]({{ site.baseurl }}/feed_quick.xml))
+* [Follow me on Twitter][3]
+* [Subscribe to newsletter][6]
+* Subscribe to feeds ([News][7] or [Quick][8])
 
 # How to help ?
 Buy me a coffee!  
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTKPLVRP3VV7J)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)][9]
+
+[1]: {{site.base_url}}/tools/
+[2]: {{ site.baseurl }}/tools/
+[3]: https://twitter.com/{{ site.twitter_username }}
+[4]: http://github.com/{{ site.github_username }}
+[5]: mailto:{{ site.email }}
+[6]: {{ site.baseurl }}/subscribe/
+[7]: {{ site.baseurl }}/feed.xml
+[8]: {{ site.baseurl }}/feed_quick.xml
+[9]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTKPLVRP3VV7J

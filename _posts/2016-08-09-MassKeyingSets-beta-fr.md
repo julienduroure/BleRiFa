@@ -7,10 +7,13 @@ img: 20160809_MassKeyingSets.png
 permalink: /:year/:month/:day/MassKeyigSets-beta-lancement/
 ---
 
-Un nouvel addon, [MassKeyingSets]({{ site.baseurl }}/tools/MassKeyingSets), est maintenant disponible en version beta sur [BleRiFa]({{ site.baseurl }}/)  
+Un nouvel addon, [MassKeyingSets][1], est maintenant disponible en version beta sur [BleRiFa][2]  
 
 Il permet de créer de multiples entrées dans un *KeyingSet* en une seule étape.
 
-La documentation et le lien pour le téléchargement se trouvent ici : [MassKeyingSets]({{ site.baseurl }}/tools/MassKeyingSets)
+La documentation et le lien pour le téléchargement se trouvent ici : [MassKeyingSets][1]
 
 ![MassKeyingSets]({{site.base_url}}/assets/img/MassKeyingSets/popup_bones.png)
+
+[1]: {{ site.baseurl }}/tools/MassKeyingSets
+[2]: {{ site.baseurl }}/

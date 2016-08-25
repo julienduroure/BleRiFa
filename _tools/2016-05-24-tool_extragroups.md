@@ -20,7 +20,7 @@ display_url: false
 ---
 
 # Getting Started
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 
 # Early presentation  
 There is currently no official documentation of this Addon, development is in progress.  
@@ -39,3 +39,5 @@ Lots of features are not displayed on this introduction video :
 * Use current selection instead of bone group  
 * Create easily your own actions  
 * ...  
+
+[1]: {{site.base_url}}/AddonInstallation/

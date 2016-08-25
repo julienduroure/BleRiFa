@@ -19,7 +19,7 @@ display_url: true
 
 ## Getting Started
 
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 
 ## Overview
 
@@ -60,4 +60,7 @@ Add all custom properties defined at object data level (of selected objects) int
 At mesh level for mesh objects, curve data for bezier curves, etc...
 
 ## How to report bugs or request new features ?
-You can report bugs on [Issue Tracker](https://github.com/julienduroure/MassKeyingSets/issues/)
+You can report bugs on [Issue Tracker][2]
+
+[1]: {{site.base_url}}/AddonInstallation/
+[2]: https://github.com/julienduroure/MassKeyingSets/issues/

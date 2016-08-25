@@ -20,7 +20,7 @@ display_url: false
 ---
 
 ## Getting Started
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 
 ## Overview
 {% include html5video.html id="AutoRefSpace_1.ogv" %}
@@ -102,3 +102,5 @@ On right side, data used for mirror copy:
 Default data are filled when you first create a Reference System, or by clicking on button 'Init Sides'.  
 On created table, you can manage side suffix used on your rig.  
 By default, common suffixes used are already filled.  
+
+[1]: {{site.base_url}}/AddonInstallation/

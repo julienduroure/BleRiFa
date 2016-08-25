@@ -15,5 +15,9 @@ I live in Toulouse, France.
 
 
 I am a Rigger, Animator, Developper, and Blender Trainer.  
-My website are [JulienDuroure.com](http://julienduroure.com), and [BleRiFa]({{site.baseurl}}) of course!  
-I'am a member of [RGBa collective](http://rgba.fr).  
+My website are [JulienDuroure.com][1], and [BleRiFa][2] of course!  
+I'am a member of [RGBa collective][3].  
+
+[1]: http://julienduroure.com
+[2]: {{site.baseurl}}
+[3]: http://rgba.fr

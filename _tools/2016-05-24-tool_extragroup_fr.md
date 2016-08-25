@@ -20,7 +20,7 @@ display_url: false
 ---
 
 # Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).  
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 # Présentation 'avant l'heure'  
 Il n'y a pas de documentation officielle pour cet Addon, le développement étant toujours en cours.  
@@ -39,3 +39,5 @@ De nombreuses autres fonctionnalités ne sont pas présentées dans cette petite
 * Réaliser l'action sur les os sélectionnés au lieu d'un groupe donné  
 * Création de scripts pour coder facilement vos propres actions  
 * ...  
+
+[1]: {{site.base_url}}/AddonInstallation-fr/

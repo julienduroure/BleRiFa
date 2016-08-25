@@ -20,7 +20,7 @@ display_url: false
 ---
 
 # Getting Started
-If you don't know how to install Addon, read [following documentation]({{site.base_url}}/AddonInstallation/).  
+If you don't know how to install Addon, read [following documentation][1].  
 
 # Overview
 
@@ -28,3 +28,5 @@ This addon is in an early (really early) development stage.
 Here is a quick sneakpeek:  
 
 {% include html5video.html id="MirrorShapeKeys.ogv" %}
+
+[1]: {{site.base_url}}/AddonInstallation/

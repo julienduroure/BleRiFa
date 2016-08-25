@@ -20,7 +20,7 @@ display_url: false
 ---
 
 # Pour démarrer
-Si vous ne savez pas installer un Addon, suivez la [procédure suivante]({{site.base_url}}/AddonInstallation-fr/).
+Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].
 
 # Présentation rapide
 
@@ -28,3 +28,5 @@ Ce développement n'est pas encore stable, et en est au tout début.
 Mais voici quand même une présentation rapide :  
 
 {% include html5video.html id="MirrorShapeKeys.ogv" %}
+
+[1]: {{site.base_url}}/AddonInstallation-fr/
