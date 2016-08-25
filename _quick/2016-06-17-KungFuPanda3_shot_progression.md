@@ -6,4 +6,4 @@ ref: KungFuPanda3_shot_progression
 permalink: /:year/:month/:day/quick/Kung-Fu-Panda3-shot-progression/
 ---
 
-{% include vimeo.html id='https://vimeo.com/170820862' %}
+{% include vimeo.html id='170820862' %}
