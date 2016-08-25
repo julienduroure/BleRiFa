@@ -8,6 +8,11 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+  {% if page.alternate %}
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title[page.lang] }}" href="{{  page.alternate | prepend: "/" | prepend: site.baseurl | prepend: site.url }}">
+  {% else %}
+  coucou
+  {% endif %}
   <link rel="icon" type="image/x-icon" href="{{ "/favicon.png" | prepend: site.baseurl }}">
 </head>
