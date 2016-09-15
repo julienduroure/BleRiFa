@@ -34,5 +34,5 @@ On peut maintenant utiliser la position/rotation/mise à l'échelle pour défini
 
 {% include html5video.html id="switch_bone_transformation.ogv" %}
 
-[1]: {{site.base_url}}/tools/ExtraGroups/
-[2]: {{site.base_url}}/tools/AutoSnap/
+[1]: {{site.base_url}}/tools/ExtraGroups-fr/
+[2]: {{site.base_url}}/tools/AutoSnap-fr/
