@@ -1,6 +1,6 @@
 getit:
-  fr: Télécharger l'addon sur 
-  en: Get this addon on 
+  fr: Télécharger l'addon sur
+  en: Get this addon on
 see_doc:
   fr: Voir la documentation
   en: See documentation
@@ -19,3 +19,6 @@ stable_version:
 dev_version:
   fr: Version de dev
   en: Dev version
+read_more:
+  fr: Lire l'article
+  en: Read more

@@ -21,7 +21,7 @@ Don't miss any news, follow our <a href="{{ site.baseurl }}/feed.xml">feed</a>!
 			<div class="entry">
 				{% if post.img %}<a href="{{ site.baseurl }}{{ post.url }}"><img align="left" src="{{ site.baseurl }}/assets/post/{{post.img}}"/></a>{% endif %}{{ post.excerpt }}
 			</div>
-		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{site.data.trad["read_more"][page.lang]}}</a>
 
 	</article>
    {% endfor %}
