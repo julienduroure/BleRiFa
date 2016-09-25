@@ -19,5 +19,5 @@ My website are [JulienDuroure.com][1], and [BleRiFa][2] of course!
 I'am a member of [RGBa collective][3].  
 
 [1]: http://julienduroure.com
-[2]: {{site.baseurl}}
+[2]: http://BleRiFa.com
 [3]: http://rgba.fr

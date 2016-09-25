@@ -18,5 +18,5 @@ Mes sites sont [JulienDuroure.com][1], et [BleRiFa][2] bien sûr!
 Je suis également membre du [collectif RGBa][3].
 
 [1]: http://julienduroure.com
-[2]: {{site.baseurl}}
+[2]: http://BleRiFa.com
 [3]: http://rgba.fr
