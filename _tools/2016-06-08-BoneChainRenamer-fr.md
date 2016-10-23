@@ -8,7 +8,7 @@ cat: rigging
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1
-dev_status: En développement
+dev_status: En développement / Beta privée à la demande
 description: Renommez facilement vos chaines d'os
 img: BoneChainRenamer.png
 getit_url:
