@@ -8,7 +8,6 @@ permalink: /:year/:month/:day/developpement-ete/
 ---
 
 Bonjour à tous,
-
 Même si je n'ai pas été très bavard cet été, le développement continue :) Voici quelques améliorations :
 
 # [ExtraGroups][1]

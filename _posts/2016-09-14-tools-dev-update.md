@@ -8,7 +8,6 @@ permalink: /:year/:month/:day/summer-dev-update/
 ---
 
 Hi all,
-
 Here is some quick news of state of development. I didn't post news recently, but development is in progress :)
 
 # [ExtraGroups][1]
