@@ -27,10 +27,11 @@
 			<h1>{{site.data.trad["latest_news"][page.lang]}}</h1>
 			{% capture include_latest_news %}{% include latest_news.md %}{% endcapture %}
 			{{ include_latest_news | markdownify }}
+      <div style="padding-top: 10px; text-align:right;"><h2><a href="{{site.data.trad["blog_url"][page.lang]}}">{{site.data.trad["read_all_news"][page.lang]}}</a></h2></div>
 		</div>
 	  </div>
     </div>
-	
+
 
     {% include footer.html %}
 	{% include google_analytics.html %}

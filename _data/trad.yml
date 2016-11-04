@@ -8,8 +8,8 @@ no_download:
   fr: Cet Addon n'est pas encore disponible publiquement
   en: There is still no public version of this Addon
 latest_news:
-  fr: Dernières News
-  en: Latest News
+  fr: Dernières News ...
+  en: Latest News ...
 video_not_supported:
   fr: Le navigateur ne supporte pas les vidéos html5
   en: your browser doesn't support html5 videos
@@ -22,3 +22,6 @@ dev_version:
 read_more:
   fr: Lire l'article
   en: Read more
+read_all_news:
+  fr: ... Lire toutes les news
+  en: ... Read all news
