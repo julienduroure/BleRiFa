@@ -14,6 +14,9 @@
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
+        {% if page.layout == "post" %}
+          <a href="{{ site.baseurl }}{{site.data.trad["blog_url"][page.lang]}}">{{site.data.trad["back"][page.lang]}}</a>
+        {% endif %}
       </div>
     </div>
 
