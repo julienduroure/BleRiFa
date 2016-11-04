@@ -19,7 +19,7 @@ Don't miss any news, follow our <a href="{{ site.baseurl }}/feed.xml">feed</a>!
 		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
                         <div></div>
 			<div class="entry">
-				{% if post.img %}<a href="{{ site.baseurl }}{{ post.url }}"><img align="left" src="{{ site.baseurl }}/assets/post/{{post.img}}"/></a>{% endif %}{{ post.excerpt }}
+				{% if post.img %}<a href="{{ site.baseurl }}{{ post.url }}"><img align="left" src="{{ site.baseurl }}/assets/post/{{post.img}}"/></a>{% endif %}{{ post.excerpt | truncatewords: 25}}
 			</div>
 		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{site.data.trad["read_more"][page.lang]}}</a>
 

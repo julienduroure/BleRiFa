@@ -18,7 +18,7 @@ Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">f
 
 		<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 			<div class="entry">
-				{% if post.img %}<a href="{{ site.baseurl }}{{ post.url }}"><img align="left" src="{{ site.baseurl }}/assets/post/{{post.img}}"/></a>{% endif %}{{ post.excerpt }}
+				{% if post.img %}<a href="{{ site.baseurl }}{{ post.url }}"><img align="left" src="{{ site.baseurl }}/assets/post/{{post.img}}"/></a>{% endif %}{{ post.excerpt | truncatewords: 25}}
 			</div>
 		<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{site.data.trad["read_more"][page.lang]}}</a>
 
