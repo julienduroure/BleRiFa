@@ -5,6 +5,7 @@ lang: en
 ref: take_a_tour
 img: 20160616_take_a_tour.png
 permalink: /:year/:month/:day/Take-a-tour/
+version: 1
 ---
 
 So, [BleRiFa][1] is now online for a few days: time to take a tour!

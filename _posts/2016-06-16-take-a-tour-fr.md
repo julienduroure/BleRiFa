@@ -5,6 +5,7 @@ lang: fr
 ref: take_a_tour
 img: 20160616_take_a_tour.png
 permalink: /:year/:month/:day/Visite-guidee/
+version: 1
 ---
 
 Le site [BleRiFa][1] est maintenant en ligne depuis quelques jours, il est temps de faire une petite visite guidée !

@@ -5,6 +5,7 @@ lang: fr
 ref: dev_update
 img: 20160616_take_a_tour.png
 permalink: /:year/:month/:day/developpement-ete/
+version: 1
 ---
 
 Bonjour à tous,

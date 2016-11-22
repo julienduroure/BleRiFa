@@ -5,6 +5,7 @@ lang: en
 ref: dev_update
 img: 20160616_take_a_tour.png
 permalink: /:year/:month/:day/summer-dev-update/
+version: 1
 ---
 
 Hi all,

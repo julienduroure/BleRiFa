@@ -5,6 +5,7 @@ lang: en
 ref: BleRiFa-BConf-2016
 img: BConf2016.jpg
 permalink: /:year/:month/:day/BleRiFa-BConf-2016/
+version: 1
 ---
 
 [Blender Conference][1] is a real highlight of the year for all people using [Blender][2].  

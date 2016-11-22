@@ -5,6 +5,7 @@ lang: fr
 ref: MassKeyingSets-beta
 img: 20160809_MassKeyingSets.png
 permalink: /:year/:month/:day/MassKeyigSets-beta-lancement/
+version: 1
 ---
 
 Un nouvel addon, [MassKeyingSets][1], est maintenant disponible en version beta sur [BleRiFa][2]  
