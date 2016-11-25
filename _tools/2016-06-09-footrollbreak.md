@@ -63,7 +63,7 @@ FootRollBreak let's your foot have a natural fold / unfold when you roll it.
 * Try to roll your again :
   * At angle defined in parameter, your foot starts to take off, and your toes starts to unfold.
   * At "angle max", defined in parameter, your toes are totally unfolded.
-  * In some uncommon cases, foot have some unnatural motion path. In that case, your case tweak "corrective angle" to have a better movement.  
+  * In some uncommon cases, foot have some unnatural motion path. In that case, you can tweak "corrective angle" to have a better movement.  
 <br/>
 ![Screenshot patch]({{site.base_url}}/assets/img/FootRollBreak/bad_motion.png)
 ![Screenshot patch]({{site.base_url}}/assets/img/FootRollBreak/correct_motion.png)
