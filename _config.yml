@@ -39,3 +39,6 @@ collections:
     output: true
   quick:
     output: true
+
+gems:
+  - jekyll-redirect-from
