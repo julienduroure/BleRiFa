@@ -6,7 +6,7 @@ ref: MassKeyingSets-beta
 img: 20160809_MassKeyingSets.png
 permalink: /:year/:month/:day/MassKeyingSets-beta-lancement/
 redirect_from:
-	-	/2016/08/09/MassKeyigSets-beta-lancement/
+  - /2016/08/09/MassKeyigSets-beta-lancement/
 version: 2
 ---
 
