@@ -4,8 +4,10 @@ title: MassKeyingSets in now available on beta
 lang: en
 ref: MassKeyingSets-beta
 img: 20160809_MassKeyingSets.png
-permalink: /:year/:month/:day/MassKeyigSets-beta-launch/
-version: 1
+permalink: /:year/:month/:day/MassKeyingSets-beta-launch/
+redirect_from:
+	-	/2016/08/09/MassKeyigSets-beta-launch/
+version: 2
 ---
 
 A new tool, [MassKeyingSets][1], is now available on beta version on [BleRiFa][2]  
