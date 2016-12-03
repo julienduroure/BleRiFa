@@ -6,6 +6,7 @@ ref: sitemap
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlnx="http://sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {% for post in site.posts %}
+{% if page.ref %}
 		<url>
 			<loc>{{site.base}}{{post.url}}</loc>
 			{% assign versions=site.posts | where:"ref", post.ref %}
@@ -13,17 +14,10 @@ ref: sitemap
 				<xhtml:link rel="alternate" hreflang="{{version.lang}}" href="{{site.base}}{{version.url}}"/>
 			{% endfor %}
 		</url>
-{% endfor %}
-{% for post in site.quick %}
-		<url>
-			<loc>{{site.base}}{{post.url}}</loc>
-			{% assign versions=site.posts | where:"ref", post.ref %}
-			{% for version in versions %}
-				<xhtml:link rel="alternate" hreflang="{{version.lang}}" href="{{site.base}}{{version.url}}"/>
-			{% endfor %}
-		</url>
+{% endif %}
 {% endfor %}
 {% for page in site.pages %}
+	{% if page.ref %}
 	{% if page.ref == 404 %}{% else %}
 		<url>
 			<loc>{{site.base}}{{page.url}}</loc>
@@ -33,8 +27,10 @@ ref: sitemap
 			{% endfor %}
 		</url>
 	{% endif %}
+	{% endif %}
 {% endfor %}
 {% for tool in site.tools %}
+{% if page.ref %}
 		<url>
 			<loc>{{site.base}}{{tool.url}}</loc>
 			{% assign versions=site.tools | where:"ref",tool.ref %}
@@ -42,5 +38,6 @@ ref: sitemap
 				<xhtml:link rel="alternate" hreflang="{{version.lang}}" href="{{site.base}}{{version.url}}"/>
 			{% endfor %}
 		</url>
+{% endif %}
 {% endfor %}
 </urlset>
