@@ -3,7 +3,7 @@ layout: post
 title: Développement de l'été
 lang: fr
 ref: dev_update
-img: 20160616_take_a_tour.png
+img: 20161214_dev_update.png
 permalink: /:year/:month/:day/developpement-ete/
 version: 1
 ---
