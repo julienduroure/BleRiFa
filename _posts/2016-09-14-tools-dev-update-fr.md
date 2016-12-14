@@ -5,7 +5,7 @@ lang: fr
 ref: dev_update
 img: 20161214_dev_update.png
 permalink: /:year/:month/:day/developpement-ete/
-version: 1
+version: 2
 ---
 
 Bonjour à tous,

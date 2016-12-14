@@ -5,7 +5,7 @@ lang: en
 ref: dev_update
 img: 20161214_dev_update.png
 permalink: /:year/:month/:day/summer-dev-update/
-version: 1
+version: 2
 ---
 
 Hi all,
