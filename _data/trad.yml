@@ -34,3 +34,6 @@ blog_url:
 back_blog:
   fr: Retourner à la liste des articles
   en: Back to post list
+new_post:
+  fr: Un nouvel article sur le site de BleRiFa !
+  en: A new blog post is available on BleRiFa's website!
