@@ -10,6 +10,8 @@ alternate: feed_fr.xml
 ---
 
 Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">flux RSS</a>!
+{% include subscribe.html %}
+<br/>
 
 <div class="posts">
 	{% assign posts=site.posts | where:"lang", page.lang %}
@@ -25,3 +27,4 @@ Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">f
 	</article>
    {% endfor %}
 </div>
+{% include subscribe.html %}

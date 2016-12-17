@@ -10,6 +10,8 @@ alternate: feed.xml
 ---
 
 Don't miss any news, follow our <a href="{{ site.baseurl }}/feed.xml">feed</a>!
+{% include subscribe.html %}
+<br/>
 
 <div class="posts">
 	{% assign posts=site.posts | where:"lang", page.lang %}
@@ -26,3 +28,4 @@ Don't miss any news, follow our <a href="{{ site.baseurl }}/feed.xml">feed</a>!
 	</article>
    {% endfor %}
 </div>
+{% include subscribe.html %}
