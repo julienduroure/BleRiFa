@@ -14,8 +14,9 @@
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
-        {% if page.layout == "post" %}
-          <a href="{{ site.baseurl }}{{site.data.trad["blog_url"][page.lang]}}">{{site.data.trad["back"][page.lang]}}</a>
+				{% if page.layout == "post" %}
+				{% include subscribe.html %}
+          <a href="{{ site.baseurl }}{{site.data.trad["blog_url"][page.lang]}}"><i class="fa fa-mail-reply" style="font-size:36px;"></i></a> {{site.data.trad["back_blog"][page.lang]}}
         {% endif %}
       </div>
     </div>
