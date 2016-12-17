@@ -1,0 +1,15 @@
+	<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+
+	<meta property="og:title" content="{{ site.title[page.lang] }}" />
+	<meta property="og:description" content="{{ site.description[page.lang] }}" />
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<meta property="og:url" content="{{ site.url }}" />
+	<meta property="og:site_name" content="{{ site.title[page.lang] }}" />
+	<script type="application/ld+json">
+		{"@context": "http://schema.org",
+		"@type": "WebSite",
+		"name": "{{ site.title[page.lang] }}",
+		"headline": "{{ site.title[page.lang] }}",
+		"description": "{{ site.description[page.lang] }}",
+		"url": "{{ site.url }}"}</script>
