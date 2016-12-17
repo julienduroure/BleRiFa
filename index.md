@@ -33,7 +33,7 @@ Running into a problem or have a question ?
 
 * [Follow me on Twitter][3]
 * [Subscribe to newsletter][6]
-* Subscribe to feeds ([News][7] or [Quick][8])
+* [Subscribe to feeds][7]
 
 # How to help ?
 Buy me a coffee!  

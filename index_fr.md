@@ -33,7 +33,7 @@ Vous avez un problème ou une question ?
 
 * [Suivez-moi sur Twitter][3]
 * [Souscrivez à la newsletter][6]
-* Abonnez-vous aux flux ([News][7] ou [Brèves][8])
+* [Abonnez-vous aux flux][7]
 
 # Comment aider ?
 Offrez-moi un café !  
