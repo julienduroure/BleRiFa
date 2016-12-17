@@ -30,6 +30,7 @@ Running into a problem or have a question ?
 * [Ask me by email][5]
 
 # Stay informed
+{% include subscribe.html  %}
 
 * [Follow me on Twitter][3]
 * [Subscribe to newsletter][6]
