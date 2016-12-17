@@ -9,7 +9,9 @@ ref: news
 alternate: feed_fr.xml
 ---
 
-Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">flux RSS</a>!
+<div class="rssfeed">
+<a href="{{ site.baseurl }}/{{ page.alternate }}"><i class="fa fa-rss" aria-hidden="true" style="font-size:36px;color:orange"></i></a> Abonnez-vous au flux !
+</div>
 {% include subscribe.html %}
 <br/>
 
@@ -28,3 +30,6 @@ Ne ratez aucune info, abonnez-vous au <a href="{{ site.baseurl }}/feed_fr.xml">f
    {% endfor %}
 </div>
 {% include subscribe.html %}
+<div class="rssfeed">
+<a href="{{ site.baseurl }}/{{ page.alternate }}"><i class="fa fa-rss" aria-hidden="true" style="font-size:36px;color:orange"></i></a> Abonnez-vous au flux !
+</div>
