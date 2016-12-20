@@ -7,7 +7,7 @@ ref: home
 type_banner: home
 ---
 
-[![AutoRefSpace exemple]({{ site.baseurl }}/assets/img/autorefspace.png)][1]
+[![AutoRefSpace exemple]({{ site.baseurl }}/assets/img/ExtraGroups.png)][1]
 
 # BleRiFa : Qu'est ce que c'est ?
 BleRiFa est une boite à outil pour faciliter le Rigging et l'Animation!  
