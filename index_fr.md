@@ -23,7 +23,6 @@ La plupart des Addons nécessite Blender 2.77 ou plus récent, et fonctionnent p
 Ils fonctionnent peut être pour des versions plus anciennes, mais n'ont pas été testés.
 
 # Besoin de support ?
-{% include subscribe.html  %}
 Vous avez un problème ou une question ?  
 
 * [Demandez-moi sur Twitter][3]
@@ -31,6 +30,7 @@ Vous avez un problème ou une question ?
 * [Demandez-moi par email][5]
 
 # Restez informés !
+{% include subscribe.html  %}
 
 * [Suivez-moi sur Twitter][3]
 * [Souscrivez à la newsletter][6]
