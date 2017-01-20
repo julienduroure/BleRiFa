@@ -41,7 +41,19 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].
 <br/>
   * Des options sont disponibles dans les préférences de l'Addon (voir plus bas)  
 <br/>
-  * Les chaines sont numérotées dans l'ordre alphabétique de leur os racine respectif. Vous pouvez au préalable les renommer  *a, b, c, ...* si vous voulez choisir l'ordre des chaines.  
+* Les chaines sont renommées suivant un tri basé sur l'os racine de la chaine. Dans les propriétés de l'opérateur, on peut choisir le type de tri que l'on veut appliquer :    
+  * Alphabetic: _basé sur le nom des os_
+  * X location: _basé sur la position X des os (espace d'évaluation 'World') : par ordre croissant_
+  * Y location: _basé sur la position Y des os (espace d'évaluation 'World') : par ordre croissant_
+  * Z location: _basé sur la position Z des os (espace d'évaluation 'World') : par ordre croissant_
+  * X location reversed: _basé sur la position X des os (espace d'évaluation 'World') : par ordre décroissant_
+  * Y location reversed: _basé sur la position Y des os (espace d'évaluation 'World') : par ordre décroissant_
+  * Z location reversed: _basé sur la position Z des os (espace d'évaluation 'World') : par ordre décroissant_
+  * Distance: _basé sur la distance entre les os et l'os actif : par distance croissante_
+  * Distance reversed: _basé sur la distance entre les os et l'os actif : par distance décroissante_
+
+For distances (_Distance_ and _Distance reversed), distance is based on "center" of bones (median point between head and tail), in order to be able to rename in such cases :  
+![][2]
 <br/>
   * Pour chaque chaine, le renommage s'arrête lorsqu'un os a plusieurs enfants.  
 <br/>
@@ -65,3 +77,4 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 
 
 [1]: {{site.base_url}}/AddonInstallation-fr/
+[2]: {{site.base_url}}/assets/img/BoneChainRenamer/by_distance.png

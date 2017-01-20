@@ -41,7 +41,19 @@ If you don't know how to install Addon, read [following documentation][1].
 <br/>
   * See addon preferences for more information about separator, how to count chains, etc...  
 <br/>
-  * Chains are renamed based on alphabetic order of their root. You can optionally rename roots *a, b, c, ...* if you want to choose order of your chains  
+  * Chains are renamed based on a sort order of their root bone. On operator properties, you can choose what sort order you want to apply:  
+    * Alphabetic: _based on name of your bone names_
+    * X location: _based on X location of bones (world space) : from the smallest to the largest_
+    * Y location: _based on Y location of bones (world space) : from the smallest to the largest_
+    * Z location: _based on Z location of bones (world space) : from the smallest to the largest_
+    * X location reversed: _based on X location of bones (world space) : from the largest to the smallest_
+    * Y location reversed: _based on Y location of bones (world space) : from the largest to the smallest_
+    * Z location reversed: _based on Z location of bones (world space) : from the largest to the smallest_
+    * Distance: _based on distance to your active bone (world space): from the smallest to the largest_
+    * Distance reversed: _based on distance to your active bone (world space): from the largest to the smallest_
+
+  For distances (_Distance_ and _Distance reversed), distance is based on "center" of bones (median point between head and tail), in order to be able to rename in such cases :  
+  ![][2]
 <br/>
   * On a chain, renaming will stop when your chain forks  
 <br/>
@@ -64,3 +76,4 @@ It can be changed to alphanumeric: *finger_a.R, finger_b.R, finger_c.R*, etc...
 * Stop chain when bone is not connected: You can choose if renaming stops when a bone is not connected to its parent, or if renaming continue until a bone has no child (connected or not)
 
 [1]: {{site.base_url}}/AddonInstallation/
+[2]: {{site.base_url}}/assets/img/BoneChainRenamer/by_distance.png
