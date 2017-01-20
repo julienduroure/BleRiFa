@@ -1,0 +1,15 @@
+<div class="tiles">
+<div class="no-touch">
+<div class="tilewrap">
+{% assign tools=site.tools | where:"lang", page.lang  %}
+{% for tool in tools reversed %}
+<div class="box">
+  <div class="boxInner">
+    <a href="{{ tool.permalink }}"><img src="{{ site.baseurl }}/assets/tool/{{ tool.img }}" /></a>
+    <div class="titleBox">{{ tool.title }}</div>
+  </div>
+</div>
+{% endfor %}
+</div>
+</div>
+</div>

@@ -7,12 +7,13 @@ ref: home
 type_banner: home
 ---
 
-[![AutoRefSpace exemple]({{ site.baseurl }}/assets/img/ExtraGroups.png)][1]
-
 # BleRiFa : Qu'est ce que c'est ?
 BleRiFa est une boite à outil pour faciliter le Rigging et l'Animation!  
 Vous trouverez sur ce sujet des Addons pour Blender permettant de faciliter votre worflow.  
 Tous les Addons présentés concernent l'Animation et le Rigging.  
+
+{% include tiles.html %}  
+<br/>
 
 # Où les trouver ?
 La liste des Addons et leurs documentations sont disponibles sur la page des [Outils][2].
