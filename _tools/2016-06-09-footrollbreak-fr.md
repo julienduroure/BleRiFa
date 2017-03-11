@@ -14,6 +14,8 @@ img: FootRollBreak.png
 getit_url:
   - label: Blender Market
     url: https://cgcookiemarkets.com/all-products/footrollbreak/
+  - label: Gumroad
+    url: https://gumroad.com/l/FootRollBreak
 display_url: true
 ---
 
