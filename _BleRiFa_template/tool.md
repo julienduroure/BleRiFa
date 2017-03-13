@@ -45,4 +45,4 @@ Vous pouvez le faire sur le [Tracker][2]
 
 [1]: {{site.base_url}}/AddonInstallation/
 [1]: {{site.base_url}}/AddonInstallation-fr/
-[2]: https://github.com/julienduroure/XXXXX/issues/
+[2]: https://github.com/julienduroure/BleRiFa/issues/
