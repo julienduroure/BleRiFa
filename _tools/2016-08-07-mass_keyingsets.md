@@ -5,15 +5,15 @@ lang: en
 ref: masskeyingsets
 permalink: /tools/MassKeyingSets/
 cat: animation
-stable_version: 0.1.0 (beta version)
+stable_version: 0.1.0
 stable_status: Beta version 0.1.0 is public available
-dev_version: 0.1.0
-dev_status: In development / stabilisation
+dev_version: N/A
+dev_status: No new development in progress
 description: Mass creation of KeyingSets
 img: MassKeyingSets.png
 getit_url:
-- label: Google Drive
-  url: https://drive.google.com/open?id=0B-mpivl1jPpuNUJGYmVVeGVDSDQ
+- label: Gumroad
+  url: https://gumroad.com/l/SRqtl
 display_url: true
 ---
 
