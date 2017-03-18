@@ -9,13 +9,13 @@ lang: fr
 ref: tools
 ---
 
-## Rigging
-
-{% include tools.md cat="rigging" %}  
-
 ## Animation
 
 {% include tools.md cat="animation" %}  
+
+## Rigging
+
+{% include tools.md cat="rigging" %}  
 
 ## Interface
 
