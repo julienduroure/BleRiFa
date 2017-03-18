@@ -5,6 +5,7 @@ lang: fr
 ref: bonechainrenamer
 permalink: /tools/BoneChainRenamer-fr/
 cat: rigging
+sort_nb: 6
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1

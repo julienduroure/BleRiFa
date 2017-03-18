@@ -5,6 +5,7 @@ lang: fr
 ref: ExtraGroups
 permalink: /tools/ExtraGroups-fr/
 cat: animation
+sort_nb: 1
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.4 -  tests en cours

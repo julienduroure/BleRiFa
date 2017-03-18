@@ -5,6 +5,7 @@ lang: fr
 ref: footrollbreak
 permalink: /tools/FootRollBreak-fr/
 cat: rigging
+sort_nb: 5
 stable_version: 1.0.0
 stable_status: Publié le 25 mars 2016
 dev_version: N/A

@@ -5,6 +5,7 @@ lang: en
 ref: FrameShift
 permalink: /tools/FrameShift/
 cat: animation
+sort_nb: 4
 stable_version: N/A
 stable_status: Not yet released
 dev_version: 0.0.1

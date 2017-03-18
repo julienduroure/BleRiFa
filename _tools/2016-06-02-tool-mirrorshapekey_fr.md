@@ -5,6 +5,7 @@ lang: fr
 ref: mirrorshapekey
 permalink: /tools/MirrorShapeKey-fr/
 cat: mesh
+sort_nb: 9
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1

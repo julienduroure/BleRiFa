@@ -5,6 +5,7 @@ lang: en
 ref: lang_ref
 permalink: /tools/tool_name/
 cat: rigging
+sort_nb: 1
 stable_version: N/A
 stable_status: Not yet released
 dev_version: 0.0.1

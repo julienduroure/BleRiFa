@@ -5,6 +5,7 @@ lang: fr
 ref: SwitchAnimView
 permalink: /tools/SwitchAnimView-fr/
 cat: interface
+sort_nb: 8
 stable_version: 1.0.0
 stable_status: Publiée le 03/06/2016
 dev_version: N/A

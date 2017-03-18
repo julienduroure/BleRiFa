@@ -5,6 +5,7 @@ lang: fr
 ref: PanelMaker
 permalink: /tools/PanelMaker-fr/
 cat: animation
+sort_nb: 3
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1

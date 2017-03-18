@@ -5,6 +5,7 @@ lang: en
 ref: masskeyingsets
 permalink: /tools/MassKeyingSets/
 cat: animation
+sort_nb: 2
 stable_version: 0.1.0
 stable_status: Beta version 0.1.0 is public available
 dev_version: N/A

@@ -2,7 +2,8 @@
 <div class="no-touch">
 <div class="tilewrap">
 {% assign tools=site.tools | where:"lang", page.lang  %}
-{% for tool in tools reversed %}
+{% assign sorted_tools= tools | sort: 'sort_nb' %}
+{% for tool in sorted_tools %}
 <div class="box">
   <div class="boxInner">
     <a href="{{ tool.permalink }}"><img src="{{ site.baseurl }}/assets/tool/{{ tool.img }}" /></a>
