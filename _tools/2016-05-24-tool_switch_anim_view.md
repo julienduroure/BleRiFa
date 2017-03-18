@@ -21,6 +21,7 @@ display_url: true
 If you don't know how to install Addon, read [following documentation][1].  
 
 This Addon is based on an idea of Hjalti Hjalmarsson. Many thanks!  
+(and it seems to be included into [Amaranth addon][3] too).  
 Purpose of this Addon is to be able to switch easily between *Graph Editor* and *DopeSheet*.  
 You can switch by pressing **Z**.  
 
@@ -42,3 +43,4 @@ You can report bugs on [Issue Tracker][2]
 
 [1]: {{site.base_url}}/AddonInstallation/
 [2]: https://github.com/julienduroure/SwitchAnimView/issues/
+[3]: http://pablovazquez.org/amaranth/

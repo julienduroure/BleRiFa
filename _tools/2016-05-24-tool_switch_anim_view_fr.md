@@ -21,6 +21,7 @@ display_url: true
 Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
 
 Cet addon a été développé en se basant sur une idée de Hjalti Hjalmarsson. Merci à lui !  
+(Et cela semble inclut aussi dans l'[addon Amaranth][3]).  
 Le but de cet Addon est de basculer du mode *Graph Editor* au *DopeSheet* à l'aide de la touche **Z**.  
 
 {% include html5video.html gif=true id="switch_anim_view.ogv" %}
@@ -41,3 +42,4 @@ Vous pouvez le faire sur le [Tracker][2]
 
 [1]: {{site.base_url}}/AddonInstallation-fr/
 [2]: https://github.com/julienduroure/SwitchAnimView/issues/
+[3]: http://pablovazquez.org/amaranth/
