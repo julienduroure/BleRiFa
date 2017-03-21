@@ -87,6 +87,6 @@ Une fois générés, les systèmes de référence ne peuvent plus être modifiab
 <br/>
 ![update]({{site.base_url}}/assets/img/AutoRefSpace/update.png)  
 <br/>
-**Une fois généré, cet Addon n'est plus utile, et vous pouvez utiliser les changements d'espace de référence sur toutes les installations de Blender, sans avoir besoin d'installer/de partager cet Addon avec vous fichier .blend.**
+**Une fois généré, cet Addon n'est plus utile, et vous pouvez utiliser les changements d'espace de référence sur toutes les installations de Blender, sans avoir besoin d'installer/de partager cet Addon avec vos fichier .blend.**
 
 [1]: {{site.base_url}}/AddonInstallation-fr/
