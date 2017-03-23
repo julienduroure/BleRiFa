@@ -42,12 +42,12 @@ Offrez-moi un café !
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)][9]
 
-[1]: {{site.base_url}}/tools-fr/
-[2]: {{ site.baseurl }}/tools-fr/
+[1]: {{site.base_url}}/fr/tools/
+[2]: {{ site.baseurl }}/fr/tools/
 [3]: https://twitter.com/{{ site.twitter_username }}
 [4]: http://github.com/{{ site.github_username }}
 [5]: mailto:{{ site.email }}
-[6]: {{ site.baseurl }}/subscribe-fr/
+[6]: {{ site.baseurl }}/fr/subscribe/
 [7]: {{ site.baseurl }}/feed_fr.xml
 [8]: {{ site.baseurl }}/feed_quick_fr.xml
 [9]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HLRL7ZPXN9J9E

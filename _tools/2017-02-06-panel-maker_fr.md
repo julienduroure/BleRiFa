@@ -3,7 +3,9 @@ layout: tool
 title: "Panel Maker"
 lang: fr
 ref: PanelMaker
-permalink: /tools/PanelMaker-fr/
+permalink: /fr/tools/PanelMaker/
+redirect_from:
+  - /tools/PanelMaker-fr/
 cat: animation
 sort_nb: 3
 stable_version: N/A
@@ -42,5 +44,5 @@ Le panneau est pour le moment généré dynamiquement, et ne peut pas être expo
 # Comment rapporter un bug ou demander une nouvelles fonctionnalité ?
 Vous pouvez le faire sur le [Tracker][2]
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/BleRiFa/issues/

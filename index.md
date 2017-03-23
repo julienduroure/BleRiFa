@@ -42,12 +42,12 @@ Buy me a coffee!
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)][9]
 
-[1]: {{site.base_url}}/tools/
-[2]: {{ site.baseurl }}/tools/
+[1]: {{site.base_url}}/en/tools/
+[2]: {{ site.baseurl }}/en/tools/
 [3]: https://twitter.com/{{ site.twitter_username }}
 [4]: http://github.com/{{ site.github_username }}
 [5]: mailto:{{ site.email }}
-[6]: {{ site.baseurl }}/subscribe/
+[6]: {{ site.baseurl }}/en/subscribe/
 [7]: {{ site.baseurl }}/feed.xml
 [8]: {{ site.baseurl }}/feed_quick.xml
 [9]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTKPLVRP3VV7J

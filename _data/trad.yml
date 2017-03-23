@@ -29,8 +29,8 @@ back:
   fr: Retourner à la liste des articles
   en: Back to post list
 blog_url:
-  fr: /news-fr/
-  en: /news/
+  fr: /fr/news/
+  en: /en/news/
 back_blog:
   fr: Retourner à la liste des articles
   en: Back to post list

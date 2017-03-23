@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /subscribe/
+permalink: /en/subscribe/
+redirect_from:
+  - /subscribe/
 title: Subscribe
 in_menu: false
 lang: en

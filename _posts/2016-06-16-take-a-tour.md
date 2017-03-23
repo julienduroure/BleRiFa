@@ -4,8 +4,10 @@ title: Take a Tour
 lang: en
 ref: take_a_tour
 img: 20160616_take_a_tour.png
-permalink: /:year/:month/:day/Take-a-tour/
-version: 1
+permalink: /en/:year/:month/Take-a-tour/
+redirect_from:
+  - /2016/06/16/Take-a-tour/
+version: 2
 ---
 
 So, [BleRiFa][1] is now online for a few days: time to take a tour!
@@ -80,16 +82,16 @@ You will find on this website some [news about BleRiFa][13].
 And some [quick notes/links][14] about Rigging / Animation / 3D world (news that I would like share with you).
 
 [1]: {{site.base_url}}/
-[2]: {{site.base_url}}/tools/
-[3]: {{site.base_url}}/tools/AutoRefSpace/
-[4]: {{site.base_url}}/tools/AutoSnap/
-[5]: {{site.base_url}}/tools/ExtraGroups/
-[6]: {{site.base_url}}/tools/BoneChainRenamer/
-[7]: {{site.base_url}}/tools/MirrorShapeKey/
-[8]: {{site.base_url}}/tools/SwitchAnimView/
-[9]: {{site.base_url}}/tools/FootRollBreak/
+[2]: {{site.base_url}}/en/tools/
+[3]: {{site.base_url}}/en/tools/AutoRefSpace/
+[4]: {{site.base_url}}/en/tools/AutoSnap/
+[5]: {{site.base_url}}/en/tools/ExtraGroups/
+[6]: {{site.base_url}}/en/tools/BoneChainRenamer/
+[7]: {{site.base_url}}/en/tools/MirrorShapeKey/
+[8]: {{site.base_url}}/en/tools/SwitchAnimView/
+[9]: {{site.base_url}}/en/tools/FootRollBreak/
 [10]: https://twitter.com/{{ site.twitter_username }}
 [11]: mailto:{{ site.email }}
 [12]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTKPLVRP3VV7J
-[13]: {{site.base_url}}/news/
+[13]: {{site.base_url}}/en/news/
 [14]: {{site.base_url}}/quick/

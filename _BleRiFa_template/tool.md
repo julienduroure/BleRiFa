@@ -3,7 +3,7 @@ layout: tool
 title: Title
 lang: en
 ref: lang_ref
-permalink: /tools/tool_name/
+permalink: /en/tools/tool_name/
 cat: rigging
 sort_nb: 1
 stable_version: N/A
@@ -45,5 +45,5 @@ Vous pouvez le faire sur le [Tracker][2]
 	* zzzzzz
 
 [1]: {{site.base_url}}/AddonInstallation/
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/BleRiFa/issues/

@@ -3,7 +3,9 @@ layout: tool
 title: ExtraGroups
 lang: fr
 ref: ExtraGroups
-permalink: /tools/ExtraGroups-fr/
+permalink: /fr/tools/ExtraGroups/
+redirect_from:
+  - /tools/ExtraGroups-fr/
 cat: animation
 sort_nb: 1
 stable_version: N/A
@@ -43,4 +45,4 @@ De nombreuses autres fonctionnalités ne sont pas présentées dans cette petite
 * ...  
 * La version anglaise de la doc commence à rassembler toutes les fonctionnalités de l'addon, la version française suivra ;-)
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/

@@ -3,7 +3,9 @@ layout: tool
 title: Bone Chain Renamer
 lang: fr
 ref: bonechainrenamer
-permalink: /tools/BoneChainRenamer-fr/
+permalink: /fr/tools/BoneChainRenamer/
+redirect_from:
+  - /tools/BoneChainRenamer-fr/
 cat: rigging
 sort_nb: 6
 stable_version: N/A
@@ -77,5 +79,5 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 * *Stop chain when bone is not connected* : Il est possible de choisir si le renommage s'arrête si un os est parenté mais non connecté à son parent, ou bien si la chaine continue jusqu'à ce qu'un os n'est pas d'enfant.
 
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: {{site.base_url}}/assets/img/BoneChainRenamer/by_distance.png

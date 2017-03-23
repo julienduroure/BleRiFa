@@ -3,7 +3,9 @@ layout: tool
 title: AutoSnap
 lang: en
 ref: AutoSnap
-permalink: /tools/AutoSnap/
+permalink: /en/tools/AutoSnap/
+redirect_from:
+  - /tools/AutoSnap/
 cat: rigging
 sort_nb: 8
 stable_version: N/A
@@ -28,4 +30,4 @@ AutoSnap is an Addon that will create for you FK/IK snapping stuff, and more:
 
 {% include html5video.html id="AutoSnap_1.ogv" %}
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/

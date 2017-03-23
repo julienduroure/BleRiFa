@@ -4,8 +4,10 @@ title: "Blender Conf 2016 : compte rendu"
 lang: fr
 ref: bcon_report
 img: BConf2016.jpg
-permalink: /:year/:month/:day/compte-rendu-bcon16/
-version: 1
+permalink: /fr/:year/:month/compte-rendu-bcon16/
+redirect_from:
+  - /2016/11/22/compte-rendu-bcon16/
+version: 2
 ---
 
 Bonjour à tous,
@@ -39,12 +41,12 @@ Comme vous pouvez le voir, ces quelques jours à Amsterdam ont été très fruct
 
 [1]: http://BleRiFa.com
 [2]: https://twitter.com/loochmunz
-[3]: http://blerifa.com/tools/ExtraGroups/
+[3]: http://blerifa.com/fr/tools/ExtraGroups/
 [4]: https://twitter.com/Shhlife
-[5]: http://blerifa.com/tools/MassKeyingSets/
+[5]: http://blerifa.com/fr/tools/MassKeyingSets/
 [6]: https://twitter.com/NathanDillow
 [7]: http://www.madinnaples.com/
 [8]: https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Rigging/Rigify
 [9]: https://www.youtube.com/watch?v=f6yHZDzoT1c
-[10]: http://blerifa.com/tools/AutoRefSpace/
+[10]: http://blerifa.com/fr/tools/AutoRefSpace/
 [12]: https://www.nimblecollective.com/

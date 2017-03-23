@@ -3,7 +3,9 @@ layout: tool
 title: AutoRefSpace
 lang: en
 ref: autorefspace
-permalink: /tools/AutoRefSpace/
+permalink: /en/tools/AutoRefSpace/
+redirect_from:
+  - /tools/AutoRefSpace/
 cat: rigging
 sort_nb: 7
 stable_version: N/A
@@ -104,4 +106,4 @@ Default data are filled when you first create a Reference System, or by clicking
 On created table, you can manage side suffix used on your rig.  
 By default, common suffixes used are already filled.  
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/

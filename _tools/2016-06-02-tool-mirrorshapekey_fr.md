@@ -3,7 +3,9 @@ layout: tool
 title: Mirror Shape Key
 lang: fr
 ref: mirrorshapekey
-permalink: /tools/MirrorShapeKey-fr/
+permalink: /fr/tools/MirrorShapeKey/
+redirect_from:
+  - /tools/MirrorShapeKey-fr/
 cat: mesh
 sort_nb: 9
 stable_version: N/A
@@ -30,4 +32,4 @@ Mais voici quand même une présentation rapide :
 
 {% include html5video.html id="MirrorShapeKeys.ogv" %}
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/

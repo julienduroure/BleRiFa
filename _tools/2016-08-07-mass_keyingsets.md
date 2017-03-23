@@ -3,7 +3,9 @@ layout: tool
 title: Mass KeyingSets
 lang: en
 ref: masskeyingsets
-permalink: /tools/MassKeyingSets/
+permalink: /en/tools/MassKeyingSets/
+redirect_from:
+  - /tools/MassKeyingSets/
 cat: animation
 sort_nb: 2
 stable_version: 0.1.0
@@ -63,5 +65,5 @@ At mesh level for mesh objects, curve data for bezier curves, etc...
 ## How to report bugs or request new features ?
 You can report bugs on [Issue Tracker][2]
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/MassKeyingSets/issues/

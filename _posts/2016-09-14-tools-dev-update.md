@@ -4,8 +4,10 @@ title: Summer Dev Update
 lang: en
 ref: dev_update
 img: 20161214_dev_update.png
-permalink: /:year/:month/:day/summer-dev-update/
-version: 2
+permalink: /en/:year/:month/summer-dev-update/
+redirect_from:
+  - /2016/09/14/summer-dev-update/
+version: 3
 ---
 
 Hi all,
@@ -34,5 +36,5 @@ FK/IK switch can now be driven by a bone transformation, instead of bone propert
 
 {% include html5video.html id="switch_bone_transformation.ogv" %}
 
-[1]: {{site.base_url}}/tools/ExtraGroups/
-[2]: {{site.base_url}}/tools/AutoSnap/
+[1]: {{site.base_url}}/en/tools/ExtraGroups/
+[2]: {{site.base_url}}/en/tools/AutoSnap/

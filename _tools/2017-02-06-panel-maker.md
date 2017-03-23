@@ -3,7 +3,9 @@ layout: tool
 title: "Panel Maker"
 lang: en
 ref: PanelMaker
-permalink: /tools/PanelMaker/
+permalink: /en/tools/PanelMaker/
+redirect_from:
+  - /tools/PanelMaker/
 cat: animation
 sort_nb: 3
 stable_version: N/A
@@ -42,5 +44,5 @@ Panel is currently dynamically generated, and can't be exported (for linking or 
 # How to report bugs or request new features ?
 You can report bugs on [Issue Tracker][2]
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/BleRiFa/issues/

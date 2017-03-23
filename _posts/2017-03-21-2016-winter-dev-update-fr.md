@@ -4,15 +4,17 @@ title: "Hiver 2017 : Mises à jour"
 lang: fr
 ref: 2017-winter-update
 img: 20161214_dev_update.png
-permalink: /:year/:month/:day/2017-mises-a-jour-hiver/
-version: 1
+permalink: /fr/:year/:month/2017-mises-a-jour-hiver/
+redirect_from:
+  - /2017/03/21/2017-mises-a-jour-hiver/
+version: 2
 ---
 
 Il est de nouveau temps de faire le point sur les derniers mois !
 
 # [ExtraGroups][6] :  
 
-Le développement progresse vite, il n'esy pas exclus d'avoir une version publique d'ici la fin du printemps !
+Le développement progresse vite, il n'esy pas exclus d'avoir une version publique d'ici la fin du printemps !  
 ![][7]
 *  Nouvel opérateur : _Lock Channels_
 *  Nouvel opérateur : _Keyframe_
@@ -56,9 +58,9 @@ La [documentation][9] est maintenant à jour (après les [développements de l'a
 [3]: http://RGBa.fr
 [4]: http://julienduroure.com/fr/2017/02/happy-2017-sources/
 [5]: http://julienduroure.com/en/2017/02/using-keyingset-whole-character/
-[6]: {{site.base_url}}/tools/ExtraGroups-fr/
+[6]: {{site.base_url}}/fr/tools/ExtraGroups/
 [7]: {{site.base_url}}/assets/img/ExtraGroups/popup.png
-[8]: {{site.base_url}}/tools/FrameShift-fr/
-[9]: {{site.base_url}}/tools/BoneChainRenamer-fr/
-[10]: {{site.base_url}}/2016/12/14/2016-mise-a-jour-automne/
-[11]:	{{site.base_url}}/tools/PanelMaker-fr/
+[8]: {{site.base_url}}/fr/tools/FrameShift/
+[9]: {{site.base_url}}/fr/tools/BoneChainRenamer/
+[10]: {{site.base_url}}/fr/2016/12/2016-mise-a-jour-automne/
+[11]:	{{site.base_url}}/fr/tools/PanelMaker/

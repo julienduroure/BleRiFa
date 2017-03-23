@@ -3,7 +3,9 @@ layout: tool
 title: FrameShift
 lang: en
 ref: FrameShift
-permalink: /tools/FrameShift/
+permalink: /en/tools/FrameShift/
+redirect_from:
+  - /tools/FrameShift/
 cat: animation
 sort_nb: 4
 stable_version: N/A
@@ -60,5 +62,5 @@ When you changed it (after using Shilf+Q or Alt+Shift+Q), frame number is saved,
 # How to report bugs or request new features ?
 You can report bugs on [Issue Tracker][2]
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/BleRiFa/issues/

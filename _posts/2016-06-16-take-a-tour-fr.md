@@ -4,8 +4,10 @@ title: Visite guidée
 lang: fr
 ref: take_a_tour
 img: 20160616_take_a_tour.png
-permalink: /:year/:month/:day/Visite-guidee/
-version: 1
+permalink: /fr/:year/:month/Visite-guidee/
+redirect_from:
+  - /2016/06/16/Visite-guidee/
+version: 2
 ---
 
 Le site [BleRiFa][1] est maintenant en ligne depuis quelques jours, il est temps de faire une petite visite guidée !
@@ -80,16 +82,16 @@ Vous trouverez aussi sur le site quelques [news à propos de BleRiFa][13].
 Et quelques [quick notes/links][14] à propos de Rigging / Animation / 3D  (globalement tous les liens que j'aurai envie de partager avec vous).
 
 [1]: {{site.base_url}}/
-[2]: {{site.base_url}}/tools/
-[3]: {{site.base_url}}/tools/AutoRefSpace-fr/
-[4]: {{site.base_url}}/tools/AutoSnap-fr/
-[5]: {{site.base_url}}/tools/ExtraGroups-fr/
-[6]: {{site.base_url}}/tools/BoneChainRenamer-fr/
-[7]: {{site.base_url}}/tools/MirrorShapeKey-fr/
-[8]: {{site.base_url}}/tools/SwitchAnimView-fr/
-[9]: {{site.base_url}}/tools/FootRollBreak-fr/
+[2]: {{site.base_url}}/fr/tools/
+[3]: {{site.base_url}}/fr/tools/AutoRefSpace/
+[4]: {{site.base_url}}/fr/tools/AutoSnap/
+[5]: {{site.base_url}}/fr/tools/ExtraGroups/
+[6]: {{site.base_url}}/fr/tools/BoneChainRenamer/
+[7]: {{site.base_url}}/fr/tools/MirrorShapeKey/
+[8]: {{site.base_url}}/fr/tools/SwitchAnimView/
+[9]: {{site.base_url}}/fr/tools/FootRollBreak/
 [10]: https://twitter.com/{{ site.twitter_username }}
 [11]: mailto:{{ site.email }}
 [12]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HLRL7ZPXN9J9E
-[13]: {{site.base_url}}/news-fr/
+[13]: {{site.base_url}}/fr/news/
 [14]: {{site.base_url}}/Breves/

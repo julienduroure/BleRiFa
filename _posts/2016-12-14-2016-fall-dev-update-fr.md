@@ -4,8 +4,10 @@ title: "Automne 2016 : Mises à jour"
 lang: fr
 ref: 2016-fall-update
 img: 20161214_dev_update.png
-permalink: /:year/:month/:day/2016-mise-a-jour-automne/
-version: 1
+permalink: /fr/:year/:month/2016-mise-a-jour-automne/
+redirect_from:
+  - /2016/12/14/2016-mise-a-jour-automne/
+version: 2
 ---
 
 Bonjour à tous,
@@ -54,7 +56,7 @@ Il n'y a pas eu énormément de mise à jour du site ces derniers mois ... mais 
 La plupart des améliorations faite sur [mon site][4] seront reportées sur [BleRiFa][1] dans les prochains mois.
 
 [1]: http://BleRiFa.com
-[2]: http://BleRiFa.com/2016/11/22/bcon16-report/
-[3]: http://BleRiFa.com/tools/BoneChainRenamer/
+[2]: http://BleRiFa.com/fr/2016/11/bcon16-report/
+[3]: http://BleRiFa.com/fr/tools/BoneChainRenamer/
 [4]: http://julienduroure.com
 [5]: https://jekyllrb.com/

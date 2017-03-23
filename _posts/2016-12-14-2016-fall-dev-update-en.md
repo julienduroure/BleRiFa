@@ -4,8 +4,10 @@ title: "Fall 2016: updates"
 lang: en
 ref: 2016-fall-update
 img: 20161214_dev_update.png
-permalink: /:year/:month/:day/2016-fall-update/
-version: 1
+permalink: /en/:year/:month/2016-fall-update/
+redirect_from:
+  - /2016/12/14/2016-fall-update/
+version: 2
 ---
 
 Hi all,
@@ -54,7 +56,7 @@ Not so much update on [BleRiFa][1] website in few previous month ... but I worke
 Lots of improvment I made on [my website][4] will be ported to [BleRiFa][1] in next months.
 
 [1]: http://BleRiFa.com
-[2]: http://BleRiFa.com/2016/11/22/bcon16-report/
-[3]: http://BleRiFa.com/tools/BoneChainRenamer/
+[2]: http://BleRiFa.com/en/2016/11/bcon16-report/
+[3]: http://BleRiFa.com/en/tools/BoneChainRenamer/
 [4]: http://julienduroure.com
 [5]: https://jekyllrb.com/

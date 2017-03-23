@@ -3,7 +3,9 @@ layout: tool
 title: Mass KeyingSets
 lang: fr
 ref: masskeyingsets
-permalink: /tools/MassKeyingSets-fr/
+permalink: /fr/tools/MassKeyingSets/
+redirect_from:
+  - /tools/MassKeyingSets-fr/
 cat: animation
 sort_nb: 2
 stable_version: 0.1.0
@@ -63,5 +65,5 @@ Au niveau *Mesh* pour un objet avec maillage, au niveau *Curve* pour une courbe,
 ## Comment rapporter un bug ou demander une nouvelles fonctionnalité ?
 Vous pouvez le faire sur le [Tracker][2]
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/MassKzeyingSets/issues/

@@ -3,7 +3,9 @@ layout: tool
 title: Switch Anim View
 lang: fr
 ref: SwitchAnimView
-permalink: /tools/SwitchAnimView-fr/
+permalink: /fr/tools/SwitchAnimView/
+redirect_from:
+  - /tools/SwitchAnimView-fr/
 cat: interface
 sort_nb: 8
 stable_version: 1.0.0
@@ -41,6 +43,6 @@ Vous pouvez le faire sur le [Tracker][2]
   * Changement:
     * Version initiale
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/SwitchAnimView/issues/
 [3]: http://pablovazquez.org/amaranth/

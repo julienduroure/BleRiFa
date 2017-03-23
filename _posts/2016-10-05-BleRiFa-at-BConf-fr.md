@@ -4,8 +4,10 @@ title: BleRiFa at Blender Conference
 lang: en
 ref: BleRiFa-BConf-2016
 img: BConf2016.jpg
-permalink: /:year/:month/:day/BleRiFa-BConf-2016/
-version: 1
+permalink: /en/:year/:month/BleRiFa-BConf-2016/
+redirect_from:
+  - /2016/10/05/BleRiFa-BConf-2016/
+version: 2
 ---
 
 [Blender Conference][1] is a real highlight of the year for all people using [Blender][2].  

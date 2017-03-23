@@ -3,7 +3,9 @@ layout: tool
 title: Switch Anim View
 lang: en
 ref: SwitchAnimView
-permalink: /tools/SwitchAnimView/
+permalink: /en/tools/SwitchAnimView/
+redirect_from:
+  - /tools/SwitchAnimView/
 cat: interface
 sort_nb: 8
 stable_version: 1.0.0
@@ -42,6 +44,6 @@ You can report bugs on [Issue Tracker][2]
   * Change logs:
     * Initial Release
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/SwitchAnimView/issues/
 [3]: http://pablovazquez.org/amaranth/

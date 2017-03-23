@@ -4,8 +4,10 @@ title: "Winter 2017: updates"
 lang: en
 ref: 2017-winter-update
 img: 20161214_dev_update.png
-permalink: /:year/:month/:day/2017-winter-update/
-version: 1
+permalink: /en/:year/:month/2017-winter-update/
+redirect_from:
+  - /2017/03/21/2017-winter-update/
+version: 2
 ---
 
 Time again to have a look on few past months !
@@ -54,9 +56,9 @@ New addon I am working on, in order to [construct some UI panels][11].
 [3]: http://RGBa.fr
 [4]: http://julienduroure.com/en/2017/02/happy-2017-sources/
 [5]: http://julienduroure.com/en/2017/02/using-keyingset-whole-character/
-[6]: {{site.base_url}}/tools/ExtraGroups/
+[6]: {{site.base_url}}/en/tools/ExtraGroups/
 [7]: {{site.base_url}}/assets/img/ExtraGroups/popup.png
-[8]: {{site.base_url}}/tools/FrameShift/
-[9]: {{site.base_url}}/tools/BoneChainRenamer/
-[10]: {{site.base_url}}/2016/12/14/2016-fall-update/
-[11]:	{{site.base_url}}/tools/PanelMaker/
+[8]: {{site.base_url}}/en/tools/FrameShift/
+[9]: {{site.base_url}}/en/tools/BoneChainRenamer/
+[10]: {{site.base_url}}/en/2016/12/2016-fall-update/
+[11]:	{{site.base_url}}/en/tools/PanelMaker/

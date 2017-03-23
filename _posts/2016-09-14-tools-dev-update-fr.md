@@ -4,8 +4,10 @@ title: Développement de l'été
 lang: fr
 ref: dev_update
 img: 20161214_dev_update.png
-permalink: /:year/:month/:day/developpement-ete/
-version: 2
+permalink: /fr/:year/:month/developpement-ete/
+redirect_from:
+  - /2016/09/14/developpement-ete/
+version: 3
 ---
 
 Bonjour à tous,
@@ -34,5 +36,5 @@ On peut maintenant utiliser la position/rotation/mise à l'échelle pour défini
 
 {% include html5video.html id="switch_bone_transformation.ogv" %}
 
-[1]: {{site.base_url}}/tools/ExtraGroups-fr/
-[2]: {{site.base_url}}/tools/AutoSnap-fr/
+[1]: {{site.base_url}}/fr/tools/ExtraGroups/
+[2]: {{site.base_url}}/fr/tools/AutoSnap/

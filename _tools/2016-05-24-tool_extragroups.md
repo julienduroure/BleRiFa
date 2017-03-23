@@ -3,7 +3,9 @@ layout: tool
 title: ExtraGroups
 lang: en
 ref: ExtraGroups
-permalink: /tools/ExtraGroups/
+permalink: /en/tools/ExtraGroups/
+redirect_from:
+  - /tools/ExtraGroups/
 cat: animation
 sort_nb: 1
 stable_version: N/A
@@ -103,5 +105,5 @@ This Addon creates some groups of bones, and you can manage your groups:
 You can report bugs on [Issue Tracker][2]
 
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/BleRiFa/issues/

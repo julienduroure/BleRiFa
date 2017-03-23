@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /tools/
+permalink: /en/tools/
+redirect_from:
+  - /tools/
 title: Tools
 in_menu: true
 menu_main: true

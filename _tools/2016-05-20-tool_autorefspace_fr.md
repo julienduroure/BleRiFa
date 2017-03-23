@@ -3,7 +3,9 @@ layout: tool
 title: AutoRefSpace
 lang: fr
 ref: autorefspace
-permalink: /tools/AutoRefSpace-fr/
+permalink: /fr/tools/AutoRefSpace/
+redirect_from:
+  - /tools/AutoRefSpace-fr/
 cat: rigging
 sort_nb: 7
 stable_version: N/A
@@ -89,4 +91,4 @@ Une fois générés, les systèmes de référence ne peuvent plus être modifiab
 <br/>
 **Une fois généré, cet Addon n'est plus utile, et vous pouvez utiliser les changements d'espace de référence sur toutes les installations de Blender, sans avoir besoin d'installer/de partager cet Addon avec vos fichier .blend.**
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/

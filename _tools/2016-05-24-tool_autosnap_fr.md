@@ -3,7 +3,9 @@ layout: tool
 title: AutoSnap
 lang: fr
 ref: AutoSnap
-permalink: /tools/AutoSnap-fr/
+permalink: /fr/tools/AutoSnap/
+redirect_from:
+  - /tools/AutoSnap-fr/
 cat: rigging
 sort_nb: 8
 stable_version: N/A
@@ -28,4 +30,4 @@ AutoSnap est un Addon qui va créer pour vous le code de *Snapping FK/IK*, et bi
 
 {% include html5video.html id="AutoSnap_1.ogv" %}
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/

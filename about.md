@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /en/about/
+redirect_from:
+  - /about/
 in_menu: true
 sort: 4
 lang: en

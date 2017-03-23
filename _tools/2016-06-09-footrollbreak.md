@@ -3,7 +3,9 @@ layout: tool
 title: FootRollBreak
 lang: en
 ref: footrollbreak
-permalink: /tools/FootRollBreak/
+permalink: /en/tools/FootRollBreak/
+redirect_from:
+  - /tools/FootRollBreak/
 cat: rigging
 sort_nb: 5
 stable_version: 1.0.0
@@ -85,5 +87,5 @@ You can report bugs on [Issue Tracker][2]
   * Change logs:
     * Initial release
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/FootRollBreak/issues/

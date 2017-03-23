@@ -3,7 +3,9 @@ layout: tool
 title: FootRollBreak
 lang: fr
 ref: footrollbreak
-permalink: /tools/FootRollBreak-fr/
+permalink: /fr/tools/FootRollBreak/
+redirect_from:
+  - /tools/FootRollBreak-fr/
 cat: rigging
 sort_nb: 5
 stable_version: 1.0.0
@@ -83,5 +85,5 @@ FootRollBreak est un addon qui améliore les rigs réalisés avec _Rigify_, en r
   * Change logs:
     * Version initiale
 
-[1]: {{site.base_url}}/AddonInstallation-fr/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/FootRollBreak/issues/

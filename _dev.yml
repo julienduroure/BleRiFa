@@ -41,3 +41,6 @@ collections:
     output: true
 
 future: true
+
+gems:
+  - jekyll-redirect-from

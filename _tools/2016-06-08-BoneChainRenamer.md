@@ -3,7 +3,9 @@ layout: tool
 title: Bone Chain Renamer
 lang: en
 ref: bonechainrenamer
-permalink: /tools/BoneChainRenamer/
+permalink: /en/tools/BoneChainRenamer/
+redirect_from:
+  - /tools/BoneChainRenamer/
 cat: rigging
 sort_nb: 6
 stable_version: N/A
@@ -76,5 +78,5 @@ It can be changed to alphanumeric: *finger_a.R, finger_b.R, finger_c.R*, etc...
 <br/>
 * Stop chain when bone is not connected: You can choose if renaming stops when a bone is not connected to its parent, or if renaming continue until a bone has no child (connected or not)
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/en/AddonInstallation/
 [2]: {{site.base_url}}/assets/img/BoneChainRenamer/by_distance.png

@@ -3,7 +3,9 @@ layout: tool
 title: FrameShift
 lang: fr
 ref: FrameShift
-permalink: /tools/FrameShift-fr/
+permalink: /fr/tools/FrameShift/
+redirect_from:
+  - /tools/FrameShift-fr/
 cat: animation
 sort_nb: 4
 stable_version: N/A
@@ -60,5 +62,5 @@ Quand on le change (après avoir apuyé sur _Shift+Q_ ou _Alt+Shift+Q), le nombr
 # Comment rapporter un bug ou demander une nouvelles fonctionnalité ?
 Vous pouvez le faire sur le [Tracker][2]
 
-[1]: {{site.base_url}}/AddonInstallation/
+[1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/BleRiFa/issues/

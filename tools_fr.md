@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /tools-fr/
+permalink: /fr/tools/
+redirect_from:
+  - /tools-fr/
 title: Outils
 in_menu: true
 menu_main: true

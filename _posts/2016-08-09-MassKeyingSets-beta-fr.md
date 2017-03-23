@@ -4,10 +4,11 @@ title: MassKeyingSets est disponible en version beta
 lang: fr
 ref: MassKeyingSets-beta
 img: 20160809_MassKeyingSets.png
-permalink: /:year/:month/:day/MassKeyingSets-beta-lancement/
+permalink: /fr/:year/:month/MassKeyingSets-beta-lancement/
 redirect_from:
   - /2016/08/09/MassKeyigSets-beta-lancement/
-version: 2
+  - /2016/08/09/MassKeyingSets-beta-lancement/
+version: 3
 ---
 
 Un nouvel addon, [MassKeyingSets][1], est maintenant disponible en version beta sur [BleRiFa][2]  
@@ -18,5 +19,5 @@ La documentation et le lien pour le téléchargement se trouvent ici : [MassKeyi
 
 ![MassKeyingSets]({{site.base_url}}/assets/img/MassKeyingSets/popup_bones.png)
 
-[1]: {{ site.baseurl }}/tools/MassKeyingSets-fr
+[1]: {{ site.baseurl }}/fr/tools/MassKeyingSets/
 [2]: {{ site.baseurl }}/
