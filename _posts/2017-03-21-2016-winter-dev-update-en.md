@@ -14,7 +14,7 @@ Time again to have a look on few past months !
 
 # [ExtraGroups][6] :  
 
-Development goes fast, and a public release may happend before end of string!  
+Development goes fast, and a public release may happend before end of spring!  
 ![][7]
 *  New operator: Lock Channels
 *  New operator: Keyframing  
