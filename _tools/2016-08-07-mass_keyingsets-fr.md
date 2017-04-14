@@ -15,6 +15,8 @@ dev_status: Pas de développement en cours
 description: Création de KeyingSets en masse
 img: MassKeyingSets.png
 getit_url:
+- label: Blender Market
+  url: https://blendermarket.com/products/mass-keyingsets
 - label: Gumroad
   url: https://gumroad.com/l/SRqtl
 display_url: true
