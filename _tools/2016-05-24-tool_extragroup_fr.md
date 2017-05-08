@@ -8,10 +8,10 @@ redirect_from:
   - /tools/ExtraGroups-fr/
 cat: animation
 sort_nb: 1
-stable_version: N/A
-stable_status: Pas encore publié
-dev_version: 1.0.0 -  Beta1
-dev_status: En développement / Beta privée
+stable_version: v1.0.0
+stable_status: Sera publié le 20 mai 2017
+dev_version: 1.0.1 (bugs) - v1.1.0 (nouvelles fonctionnalités)
+dev_status: En développement actif
 description: Gérez vos os facilement !
 img: ExtraGroups.png
 getit_url:
