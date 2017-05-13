@@ -33,7 +33,7 @@ Pour chaque groupe, on peut réaliser des actions (_opérateurs_). On peut chois
 
 ![][22]
 
-<Une vidéo sera rajoutée bientôt :)>
+{% include youtube.html id='Ljteyl8XUFM' %}
 
 ## Démarrer avec ExtraGroups
 

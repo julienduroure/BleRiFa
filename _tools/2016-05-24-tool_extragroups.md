@@ -33,7 +33,7 @@ For each group, you can use some operators (you can customize which one are disp
 
 ![][22]
 
-<A video will be added here soon :)>
+{% include youtube.html id='Ljteyl8XUFM' %}
 
 ## Starting with ExtraGroups
 
