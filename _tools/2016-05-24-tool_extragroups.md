@@ -263,16 +263,57 @@ You can use ExtraGroups addon with linked rigs. Let's say that you have a _Rig_ 
 
 ## Developper mode
 
+Developper mode, available in Addon User Preferences, is used to create your own operator. Not sure this feature is quite stable. So I am not going to document it, let's say that it will not invite you to use it ;-)
+
 ## Addon Preferences
+
+![][25]
+
+# Display
+You can choose to active (or not) the popup. And you can choose your hotkey for it.  
+You can also choose the tab where addon is displayed.
+
+# Developper mode
+If you really really really want to use it, please contact me, I will explain you.
+
+# Danger zone
+If something got wrong, you can delete all data of ExtraGroups from your current file.
 
 ## Updating this addon
 
+There is no auto-update on this addon (for now). So you can update by:  
+*  de-activate the addon
+* remove it
+* install new version
+* activate the new version
+
+For some updates, some internal data storage update are needed. That means that these updates must be done before you can use the new version. Don't worry, it won't be hard.
+
 # For local rigs
+No link system! Easy case :)  
+Instead of your usual addon panels, you will find a button, asking you to update data. Click, and that's it :)
+
+![][26]
 
 # For linked rigs
+You will have to update your rig file first. Then, you can update your animation file.
+
+![][27]
+
+So, steps are:
+*  Close your animation file
+*  Open your rig file
+*  Update addon data by clicking on button asking you to update
+*  Save your rig file, and close it
+*  Open again your animation file
+*  This time, you can reload data from library
+*  Save your file!
 
 ## How to report bugs or request new features ?
 You can report bugs on [Issue Tracker][2]
+
+## Version history
+*  __v1.0.0__, 2017 may, 20th: initial release
 
 
 [1]: {{site.base_url}}/en/AddonInstallation/
@@ -299,3 +340,6 @@ You can report bugs on [Issue Tracker][2]
 [22]: {{site.base_url}}/assets/img/ExtraGroups/popup.png
 [23]: {{site.base_url}}/assets/img/ExtraGroups/import_export.png
 [24]: {{site.base_url}}/assets/img/ExtraGroups/linked_reload.png
+[25]: {{site.base_url}}/assets/img/ExtraGroups/addonpreferences.png
+[26]: {{site.base_url}}/assets/img/ExtraGroups/update_addon.png
+[27]: {{site.base_url}}/assets/img/ExtraGroups/reload_library_update.png
