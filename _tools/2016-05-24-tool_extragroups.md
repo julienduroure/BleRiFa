@@ -57,19 +57,19 @@ For each group, you can defined what is your main bone of the group. When you ar
 
 # Delete groups
 
-The group is deleted. Properties that can have been changed by operator are not restored.  
+The group is deleted. Bone properties that can have been changed by operator are not restored.  
 
 # Update groups
 
-*  Adding bones to current group : All selected bones are added to the current group.  
-*  Deleting bones from current group : All selected bones are removed from the current group.  
+*  Adding bones to current group: All selected bones are added to the current group.  
+*  Deleting bones from current group: All selected bones are removed from the current group.  
 
 # Copy groups & Mirror copy groups
 
 ![][6]
 
 *  Copy group
-The group is copied : bone list, and corresponding properties
+The group is copied: bone list, and corresponding properties
 *  Mirror copy group
 The group is copied. All sided bones (for example with _.L_ suffix) are mirrored, other ones are kept same. If suffix of the group name is also sided, your newly created group will be mirrored too.  
 
@@ -88,12 +88,12 @@ If you delete this group, a new button is available to be able to add it again.
 ![][8]
 
 Operators are action that you will be able to perform on your groups (even if bones from this group are not selected in 3D view).  
-Note that you can manage your operators only on edit mode:  
+Note that you can manage your operators only on edit mode.  
 
 # Displayed or not displayed ?
 
 You can decide which operators are displayed or not. Don't display tools you will not use!  
-By default, _selection_ and _visibility_ operators are displayed by default.
+By default, _selection_ and _visibility_ operators are displayed.
 
 # Sort your operators
 
@@ -180,7 +180,7 @@ Will lock channels of bones from your group (no more possible to add keyframes)
 
 # Keyframing
 * Default
-Will add keygrames on bones of your group, using KeyingSet set for your group (see option). If no keyingset is filled on your group option, menu will be displayed to choose your keyframe channels.
+Will add keyframes on bones of your group, using KeyingSet set for your group (see option). If no keyingset is filled on your group option, menu will be displayed to choose your keyframe channels.
 * Forced menu
 Will add keyframes on bones of your group, displaying the keyframe menu, even if you set a keyingset on your group (see options)
 * Keying Only
@@ -224,7 +224,7 @@ For popup, by default the grouptype list is not displayed, but available via the
 
 # Clickable name
 
-When you activate this feature, the name of the group (in the list) is clickable. You can decide what operator will be used. Two solutions about the modeœ:  
+When you activate this feature, the name of the group (in the list) is clickable. You can decide what operator will be used. Two solutions about the mode:  
 *  You can decide what mode will be used when you click (and no modifier keys are enabled)  
   ![][20]
 *  You can choose to use same events than legacy operator (the one available on icon)  
@@ -255,7 +255,7 @@ You can import data from file, that you generated using _Export to File_. (Pleas
 
 ## Using this addon with linked rigs
 You can use ExtraGroups addon with linked rigs. Let's say that you have a _Rig_ file, where your rig is, and an _animation file_, where your rig is linked, and where you are doing the animation. You have to do in 2 steps:
-*  Create your ExtraGroups data on your rig file.
+*  Create your ExtraGroups data on your rig file (groups, operators, events)
 *  On you animation file, when you activate ExtraGroups addon on a linked (and proxyfied) armature, you will see that ExtraGroups are automatically imported into your animation file.
 *  If you want to change some data (operator displayed, add a new group, change bones in group, etc...), you can do in directly into your animation file, if you need it only on this animation file.
 *  If the rig is used in multiple animation file, you need to perform changes into rig file. In your animation file, on _edit mode_, you will find a new panel with a button to import ExtraGroups data from rig file to animation file.  
@@ -301,6 +301,7 @@ You will have to update your rig file first. Then, you can update your animation
 ![][27]
 
 So, steps are:
+*  Update addon
 *  Close your animation file
 *  Open your rig file
 *  Update addon data by clicking on button asking you to update
