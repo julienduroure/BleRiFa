@@ -9,17 +9,17 @@ redirect_from:
 cat: animation
 sort_nb: 1
 stable_version: 1.0.0
-stable_status: Will be released on May, 20th (2017)
+stable_status: Published on 2017 May, 20th
 dev_version: 1.0.1 (bug fixing release) / 1.1 (feature release)
 dev_status: In active development
 description: Enhance your animation workflow!
 img: ExtraGroups.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+  - label: Gumroad
+    url: https://gumroad.com/l/ExtraGroups
+  - label: BlenderMarket (when validated...)
+    url: https://blendermarket.com/products/extragroups
+display_url: true
 ---
 
 ## Getting Started

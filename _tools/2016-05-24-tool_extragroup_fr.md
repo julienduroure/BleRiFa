@@ -9,17 +9,17 @@ redirect_from:
 cat: animation
 sort_nb: 1
 stable_version: v1.0.0
-stable_status: Sera publié le 20 mai 2017
+stable_status: Publié le 20 mai 2017
 dev_version: 1.0.1 (bugs) - v1.1.0 (nouvelles fonctionnalités)
 dev_status: En développement actif
 description: Gérez vos os facilement !
 img: ExtraGroups.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+  - label: Gumroad
+    url: https://gumroad.com/l/ExtraGroups
+  - label: BlenderMarket (quand il sera validé)
+    url: https://blendermarket.com/products/extragroups
+display_url: true
 ---
 
 ## Pour démarrer
