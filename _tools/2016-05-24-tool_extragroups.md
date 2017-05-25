@@ -17,7 +17,7 @@ img: ExtraGroups.png
 getit_url:
   - label: Gumroad
     url: https://gumroad.com/l/ExtraGroups
-  - label: BlenderMarket (when validated...)
+  - label: BlenderMarket
     url: https://blendermarket.com/products/extragroups
 display_url: true
 ---

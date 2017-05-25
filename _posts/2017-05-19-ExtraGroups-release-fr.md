@@ -15,7 +15,7 @@ Cet addon permet de gérer des groupes d'os, pendant l'animation (en mode _Pose_
 On peut gérer les groupes d'os (en créer, supprimer, trier, ajouter / supprimer des os dans les groupes).  
 Pour chaque groupe, on peut réaliser des actions (_opérateurs_). On peut choisir quels sont les opérateurs qui sont affichés, et dans quel ordre.  
 
-La version 1.0 est maintenant disponible sur [gumroad][2] et le [BlenderMarket (ou le sera dans les prochains jours, après validation)][3].  
+La version 1.0 est maintenant disponible sur [gumroad][2] et le [BlenderMarket][3].  
 La documentation complète est dispo [ici][2].
 
 ![][5]  

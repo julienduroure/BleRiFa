@@ -14,7 +14,7 @@ Hi all,
 You can manage your bone groups (create / delete / sort groups, and adding / removing bone(s) from groups).  
 For each group, you can use some operators (you can customize which one are displayed, and in which order).  
 
-Version 1.0 is now available on [gumroad][2] and [BlenderMarket (or will be in following days, waiting validation)][3].  
+Version 1.0 is now available on [gumroad][2] and [BlenderMarket][3].  
 Complete documentation is [here][2].
 
 ![][5]  
