@@ -28,7 +28,7 @@ Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].
 # Aperçu
 
 Cet addon est utilisé pour créer rapidement et facilement des interfaces pour les rigs.  
-{% include html5video.html id="PanelMaker_1.ogv" %}
+{% include html5video.html id="PanelMaker_2.ogv" %}
 
 # Comment ça marche ?
 
@@ -37,6 +37,8 @@ En se basant sur des lignes et des colonnes, on peut gérer un _layout_.
 Les outils qui peuvent être rajoutés actuellement :
 *  Changement de calque d'os (_Bone Layer_)
 *  Propriété des os (pour le passage de IK à FK par exemple)
+*  Changement de calque de la scène
+*  Propriété de n'importe quel object
 
 # Limitations actuelles
 Le panneau est pour le moment généré dynamiquement, et ne peut pas être exporté (pour être partagé ou lié). C'est dans ma TODO list ;-)  

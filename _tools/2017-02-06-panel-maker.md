@@ -28,7 +28,7 @@ If you don't know how to install Addon, read [following documentation][1].
 # Overview
 
 This addon is used to create quickly & easily some UI tools for your rig.  
-{% include html5video.html id="PanelMaker_1.ogv" %}
+{% include html5video.html id="PanelMaker_2.ogv" %}
 
 # How it works
 
@@ -37,6 +37,8 @@ Based on lines and columns, you can layout your tools as you want.
 Current tools that can be added:  
 *  Switch bone layer
 *  custom property (for IK/FK switching for example)
+*  Switch scene layer
+*  Any properties of any objects
 
 # Current limitations
 Panel is currently dynamically generated, and can't be exported (for linking or sharing .blend files outside of using this addon). This is on TODO list ;-)
