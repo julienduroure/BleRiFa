@@ -73,6 +73,12 @@ FootRollBreak let's your foot have a natural fold / unfold when you roll it.
 ![Screenshot patch]({{site.base_url}}/assets/img/FootRollBreak/bad_motion.png)
 ![Screenshot patch]({{site.base_url}}/assets/img/FootRollBreak/correct_motion.png)
 
+# Using FoorRollBreak with linked rigs
+
+Same way you have to link rig_ui.py text for Rigify UI, you have also to link (and register) the 2 following texts ending with :
+*  _footrollbreakDriver.py
+*  _footrollbreakUI.py
+
 # Restrictions
 
 Current version works only on biped rigify (default Rigify Rigs for example), but doesn't work with one-leg rigs, or more-than-2-legs rigs.

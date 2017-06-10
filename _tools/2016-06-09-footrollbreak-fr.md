@@ -72,6 +72,12 @@ FootRollBreak est un addon qui améliore les rigs réalisés avec _Rigify_, en r
   ![Screenshot patch]({{site.base_url}}/assets/img/FootRollBreak/bad_motion.png)
   ![Screenshot patch]({{site.base_url}}/assets/img/FootRollBreak/correct_motion.png)
 
+# Utiliser le rig patché avec _Link_
+
+Si vous souhaitez utiliser l'option _link_ avec le rig nouvellement patché, il est nécessaire, de la même manière qu'il faut importer et executer le fichier _rig_ui.py_ pour utiliser l'interface utilisateur de _rigify_, d'importer (et d'exectuer) également les 2 fichiers textes qui se terminent par :
+*  _footrollbreakDriver.py
+*  _footrollbreakUI.py
+
 # Restrictions
 
   La version actuelle de cet addon ne fonctionne qu'avec les bipède Rigify (le métarig par défaut, par exemple), mais ne fonctionne pas avec les rigs ayant 1 seule jamble, ou bien plus de 2 jambes.
