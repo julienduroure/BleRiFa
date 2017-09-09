@@ -42,5 +42,5 @@ collections:
 
 future: true
 
-gems:
+plugins:
   - jekyll-redirect-from

@@ -40,5 +40,5 @@ collections:
   quick:
     output: true
 
-gems:
+plugins:
   - jekyll-redirect-from
