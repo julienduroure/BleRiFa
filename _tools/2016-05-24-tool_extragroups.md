@@ -8,9 +8,9 @@ redirect_from:
   - /tools/ExtraGroups/
 cat: animation
 sort_nb: 1
-stable_version: 1.0.0
-stable_status: Published on 2017 May, 20th
-dev_version: 1.0.1 (bug fixing release) / 1.1 (feature release)
+stable_version: 1.0.1
+stable_status: Published on 2017 December, 20th
+dev_version: 1.0.2 (bug fixing release) / 1.1 (feature release)
 dev_status: In active development
 description: Enhance your animation workflow!
 img: ExtraGroups.png
@@ -315,6 +315,8 @@ You can report bugs on [Issue Tracker][2]
 
 ## Version history
 *  __v1.0.0__, 2017 may, 20th: initial release
+*  __v1.0.1__, 2017 december, 20th:  
+    *  Lock & Mute: Bug when there is an animation whithout any keyframes
 
 
 [1]: {{site.base_url}}/en/AddonInstallation/

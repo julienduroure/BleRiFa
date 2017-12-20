@@ -8,9 +8,9 @@ redirect_from:
   - /tools/ExtraGroups-fr/
 cat: animation
 sort_nb: 1
-stable_version: v1.0.0
-stable_status: Publié le 20 mai 2017
-dev_version: 1.0.1 (bugs) - v1.1.0 (nouvelles fonctionnalités)
+stable_version: v1.0.1
+stable_status: Publié le 20 décembre 2017
+dev_version: 1.0.2 (bugs) - v1.1.0 (nouvelles fonctionnalités)
 dev_status: En développement actif
 description: Gérez vos os facilement !
 img: ExtraGroups.png
@@ -317,6 +317,8 @@ On peut le faire [ici][2]
 
 ## Historique des version
 *  __v1.0.0__, 20 mai 2017 : premier version publiée
+*  __v1.0.1__, 20 décembre 2017 :  
+    *  Mute & Lock: bug quand une action existe, mais sans keyframes
 
 
 [1]: {{site.base_url}}/en/AddonInstallation/
