@@ -7,7 +7,7 @@
         <ul class="contact-list">
 		  {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            {% include icon-twitter.html username=site.twitter_username label=site.twitter_label %}
           </li>
           {% endif %}
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
