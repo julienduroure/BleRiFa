@@ -8,18 +8,16 @@ redirect_from:
   - /tools/BoneChainRenamer/
 cat: rigging
 sort_nb: 6
-stable_version: N/A
-stable_status: Not yet released
-dev_version: 0.0.1
-dev_status: In development / Private Beta on demand
+stable_version: 0.1.0
+stable_status: Published on 2018 January, 06th
+dev_version: 0.1.1
+dev_status: In development / Bug fixing
 description: Rename easily your bone chains
 img: BoneChainRenamer.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+  - label: Gumroad
+    url: https://gumroad.com/l/bonechainrenamer
+display_url: true
 ---
 
 # Getting Started
@@ -77,6 +75,9 @@ It can be changed to alphanumeric: *finger_a.R, finger_b.R, finger_c.R*, etc...
 * No count when single chain rename: If you select only 1 root bone, you can choose if bones will be renamed *finger_0.R*, or only *finger.R*  
 <br/>
 * Stop chain when bone is not connected: You can choose if renaming stops when a bone is not connected to its parent, or if renaming continue until a bone has no child (connected or not)
+
+## Version history
+*  __v0.1.0__, 2018 january, 06th: initial release
 
 [1]: {{site.base_url}}/en/AddonInstallation/
 [2]: {{site.base_url}}/assets/img/BoneChainRenamer/by_distance.png

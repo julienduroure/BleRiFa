@@ -8,18 +8,16 @@ redirect_from:
   - /tools/BoneChainRenamer-fr/
 cat: rigging
 sort_nb: 6
-stable_version: N/A
-stable_status: Pas encore publié
-dev_version: 0.0.1
-dev_status: En développement / Beta privée à la demande
+stable_version: 0.1.0
+stable_status: Publiée le 6 janvier 2018
+dev_version: 0.1.1
+dev_status: En développement / Bug fixing
 description: Renommez facilement vos chaines d'os
 img: BoneChainRenamer.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+- label: Gumroad
+  url: https://gumroad.com/l/bonechainrenamer
+display_url: true
 ---
 
 # Pour démarrer
@@ -77,6 +75,9 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 * *No count when single chain rename*: Si un seul os est sélectionné, il est possible de le renommer *finger.R* au lieu de *finger_0.R*  
 <br/>
 * *Stop chain when bone is not connected* : Il est possible de choisir si le renommage s'arrête si un os est parenté mais non connecté à son parent, ou bien si la chaine continue jusqu'à ce qu'un os n'est pas d'enfant.
+
+## Historique
+*  __v0.1.0__, 6 janvier 2018 : version initiale
 
 
 [1]: {{site.base_url}}/fr/AddonInstallation/
