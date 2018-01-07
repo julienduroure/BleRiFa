@@ -15,8 +15,8 @@ dev_status: No development in progress
 description: Switch between Graph Editor / DopeSheet with Z
 img: SwitchAnimView.png
 getit_url:
-  - label: Google Drive
-    url: https://drive.google.com/open?id=0B-mpivl1jPpuRnZ6b1Bxc3VDcFU
+  - label: Gumroad
+    url: https://gumroad.com/l/switchanimview
 display_url: true
 ---
 
