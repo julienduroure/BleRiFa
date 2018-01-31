@@ -15,8 +15,10 @@ dev_status: En développement / Bug fixing
 description: Renommez facilement vos chaines d'os
 img: BoneChainRenamer.png
 getit_url:
-- label: Gumroad
-  url: https://gumroad.com/l/bonechainrenamer
+  - label: Gumroad
+    url: https://gumroad.com/l/bonechainrenamer
+  - label: BlenderMarket
+    url: https://blendermarket.com/products/bonechainrenamer
 display_url: true
 ---
 
