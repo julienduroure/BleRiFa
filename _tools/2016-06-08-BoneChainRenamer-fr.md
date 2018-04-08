@@ -8,9 +8,9 @@ redirect_from:
   - /tools/BoneChainRenamer-fr/
 cat: rigging
 sort_nb: 6
-stable_version: 0.1.0
-stable_status: Publiée le 6 janvier 2018
-dev_version: 0.1.1
+stable_version: 0.1.1
+stable_status: Publiée le 8 avril 2018
+dev_version: 0.1.2
 dev_status: En développement / Bug fixing
 description: Renommez facilement vos chaines d'os
 img: BoneChainRenamer.png
@@ -80,6 +80,7 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 
 ## Historique
 *  __v0.1.0__, 6 janvier 2018 : version initiale
+*  __v0.1.1__, 8 avril 2018 : correction d'un bug lors du renommage des os subdivisés
 
 
 [1]: {{site.base_url}}/fr/AddonInstallation/
