@@ -34,14 +34,19 @@ A new panel is added on Scene properties (with other KeyingSets stuff), only whe
 * You are in pose mode on armature, with at least one bone selected  
 * You are in object mode, with at least one object selected  
 
-When you click on button, a popup lets you choose what you want to put into keyingset.  
+When you click on the first button, a popup lets you choose what you want to put into keyingset.  
 There is two different popup, depending on mode you are (pose mode or object mode)  
 
 ![Bones]({{site.base_url}}/assets/img/MassKeyingSets/popup_bones.png)  
 <br/>
 ![Objects]({{site.base_url}}/assets/img/MassKeyingSets/popup_objects.png)  
 
+When you click on second buttin, a KeyingSet is created, based on all properties already keyed (animated) in your scene.
+
 ## Options
+
+# Update
+If checked, the KeyingSet will be updated (instead of creation of a new keyingset)
 
 # Name  
 
@@ -66,6 +71,15 @@ At mesh level for mesh objects, curve data for bezier curves, etc...
 
 ## How to report bugs or request new features ?
 You can report bugs on [Issue Tracker][2]
+
+## Version history
+*  __v0.1.0__, 2016 august, 9th: initial release
+*  __v0.2.0__, 2018 september, 22nd:  
+    *  Bug fixing:
+      *  Do not add keyingset for lock scale
+    *  New features:
+      *  A KeyingSet can now be updated
+      *  Creation of KeyingSet from existing keyframed
 
 [1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/MassKeyingSets/issues/

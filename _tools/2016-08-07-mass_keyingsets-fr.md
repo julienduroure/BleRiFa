@@ -34,14 +34,19 @@ Ce panneau est visible uniquement :
 * En mode *pose* sur une armature, quand au moins un os est sélectionné  
 * En mode *object*, quand au moins un objet est sélectionné  
 
-Quand on clique sur le bouton, une popup permet de choisir quelles sont les informations que l'on veut stocker dans le *KeyingSet*.  
+Quand on clique sur le premier bouton, une popup permet de choisir quelles sont les informations que l'on veut stocker dans le *KeyingSet*.  
 Il y a 2 popup différentes, suivant que l'on soit en mode *pose* ou *object*.    
 
 ![Bones]({{site.base_url}}/assets/img/MassKeyingSets/popup_bones.png)  
 <br/>
-![Objects]({{site.base_url}}/assets/img/MassKeyingSets/popup_objects.png)
+![Objects]({{site.base_url}}/assets/img/MassKeyingSets/popup_objects.png)  
+
+Quand on cliques sur le 2ème bouton, le _KeyingSet_ est créé à partir de toutes les propriétés ayant déjà une animation dans la scène (position, rotation, mise à l'échelle pour les objects, mais également propriétés personnalisées)
 
 ## Options
+
+# Mise à jour  
+Si l'option est coché, le _KeyingSet_ présent dans le _nom_ sera mis à jour (au lieu de créer un nouveau _KeyingSet_)
 
 # Nom  
 
@@ -66,6 +71,15 @@ Au niveau *Mesh* pour un objet avec maillage, au niveau *Curve* pour une courbe,
 
 ## Comment rapporter un bug ou demander une nouvelles fonctionnalité ?
 Vous pouvez le faire sur le [Tracker][2]
+
+## Historique des versions
+*  __v0.1.0__, 9 août 2016: Version initiale
+*  __v0.2.0__, 22 septembre 2018:  
+    *  Bugs corrigés:
+      *  Les mises à l'échelle _lockés_ sont maintenant pris en compte correctement
+    *  Nouvelles fonctionnalités:
+      *  Un _KeyingSet_ peut maintenant être mis à jour
+      *  Création de _KeyingSet_ depuis les propriétés déjà animées
 
 [1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/MassKzeyingSets/issues/
