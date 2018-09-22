@@ -8,10 +8,10 @@ redirect_from:
   - /tools/MassKeyingSets/
 cat: animation
 sort_nb: 2
-stable_version: 0.1.0
-stable_status: Beta version 0.1.0 is public available
-dev_version: 0.2.0
-dev_status: v0.2.0 will be release soon
+stable_version: 0.2.0
+stable_status: Version 0.1.0 is public available
+dev_version: N/A
+dev_status: N/A
 description: Mass creation of KeyingSets
 img: MassKeyingSets.png
 getit_url:
