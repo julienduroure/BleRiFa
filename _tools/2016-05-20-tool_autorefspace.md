@@ -11,7 +11,7 @@ sort_nb: 7
 stable_version: N/A
 stable_status: Not yet released
 dev_version: 0.0.1
-dev_status: In development
+dev_status: In development / private beta test
 description: Auto choose your bone reference spaces
 img: autorefspace.png
 getit_url:

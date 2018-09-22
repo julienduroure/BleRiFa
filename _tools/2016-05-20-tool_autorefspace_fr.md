@@ -11,7 +11,7 @@ sort_nb: 7
 stable_version: N/A
 stable_status: Pas encore publié
 dev_version: 0.0.1
-dev_status: En développement
+dev_status: En développement / beta privé
 description: Choisissez automatiquement l'espace de référence de vos os
 img: autorefspace.png
 getit_url:
