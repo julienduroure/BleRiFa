@@ -9,7 +9,7 @@ redirect_from:
 cat: animation
 sort_nb: 2
 stable_version: 0.2.0
-stable_status: Version 0.1.0 is public available
+stable_status: Version 0.2.0 is public available
 dev_version: N/A
 dev_status: N/A
 description: Mass creation of KeyingSets
