@@ -10,8 +10,8 @@ cat: animation
 sort_nb: 2
 stable_version: 0.1.0
 stable_status: Version beta disponible publiquement
-dev_version: N/A
-dev_status: Pas de développement en cours
+dev_version: 0.2.0
+dev_status: Version 0.2.0 publiée prochainement
 description: Création de KeyingSets en masse
 img: MassKeyingSets.png
 getit_url:
