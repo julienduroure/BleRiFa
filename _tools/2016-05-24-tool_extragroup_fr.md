@@ -315,7 +315,7 @@ Donc, les étapes sont :
 ## Comment faire un rapport de bug ou demander une nouvelle fonctionnalité ?
 On peut le faire [ici][2]
 
-## Historique des version
+## Historique des versions
 *  __v1.0.0__, 20 mai 2017 : premier version publiée
 *  __v1.0.1__, 20 décembre 2017 :  
     *  Mute & Lock: bug quand une action existe, mais sans keyframes
