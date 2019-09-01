@@ -8,7 +8,7 @@ redirect_from:
   - /tools/MassKeyingSets-fr/
 cat: animation
 sort_nb: 2
-stable_version: 0.2.0
+stable_version: 0.2.1
 stable_status: Version disponible publiquement
 dev_version: N/A
 dev_status: N/A
@@ -19,6 +19,8 @@ getit_url:
   url: https://blendermarket.com/products/mass-keyingsets
 - label: Gumroad
   url: https://gumroad.com/l/SRqtl
+- label: Github
+  url: https://github.com/julienduroure/MassKeyingSets
 display_url: true
 ---
 
@@ -80,6 +82,8 @@ Vous pouvez le faire sur le [Tracker][2]
     *  Nouvelles fonctionnalités:
       *  Un _KeyingSet_ peut maintenant être mis à jour
       *  Création de _KeyingSet_ depuis les propriétés déjà animées
+*  __v0.2.1__, 1 september 2019 :
+    * Mise à jour pour v2.8x
 
 [1]: {{site.base_url}}/fr/AddonInstallation/
 [2]: https://github.com/julienduroure/MassKzeyingSets/issues/

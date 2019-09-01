@@ -8,7 +8,7 @@ redirect_from:
   - /tools/MassKeyingSets/
 cat: animation
 sort_nb: 2
-stable_version: 0.2.0
+stable_version: 0.2.1
 stable_status: Version 0.2.0 is public available
 dev_version: N/A
 dev_status: N/A
@@ -19,6 +19,8 @@ getit_url:
   url: https://blendermarket.com/products/mass-keyingsets
 - label: Gumroad
   url: https://gumroad.com/l/SRqtl
+- label: Github
+  url: https://github.com/julienduroure/MassKeyingSets
 display_url: true
 ---
 
@@ -80,6 +82,8 @@ You can report bugs on [Issue Tracker][2]
     *  New features:
       *  A KeyingSet can now be updated
       *  Creation of KeyingSet from existing keyframed
+*  __v0.2.1__, 2019 september 1rst:
+    * Update for 2.8x
 
 [1]: {{site.base_url}}/en/AddonInstallation/
 [2]: https://github.com/julienduroure/MassKeyingSets/issues/
