@@ -11,14 +11,19 @@ sort_nb: 8
 stable_version: 1.0.0
 stable_status: Publiée le 03/06/2016
 dev_version: N/A
-dev_status: Pas de développement en cours
+dev_status: Inutile sur 2.8x
 description: Basculez entre Graph Editor / DopeSheet avec Z
 img: SwitchAnimView.png
 getit_url:
 - label: Gumroad
   url: https://gumroad.com/l/switchanimview
+- label: Github
+  url: https://github.com/julienduroure/SwitchAnimView
 display_url: true
 ---
+
+# Blender 2.8x
+Cet addon n'est plus nécessaire pour les versions 2.8x, car cette fonction est incluse de base dans Blender, avec le raccourci **Ctrl+Tab**
 
 # Pour démarrer
 Si vous ne savez pas installer un Addon, suivez la [procédure suivante][1].  
