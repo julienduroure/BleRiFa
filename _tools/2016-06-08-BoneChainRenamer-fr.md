@@ -8,10 +8,10 @@ redirect_from:
   - /tools/BoneChainRenamer-fr/
 cat: rigging
 sort_nb: 6
-stable_version: 0.1.1
-stable_status: Publiée le 8 avril 2018
-dev_version: 0.1.2
-dev_status: En développement / Bug fixing
+stable_version: 0.2.0
+stable_status: Publiée le 1 septembre 2019
+dev_version: N/A
+dev_status: Pas de développement en cours
 description: Renommez facilement vos chaines d'os
 img: BoneChainRenamer.png
 getit_url:
@@ -19,6 +19,8 @@ getit_url:
     url: https://gumroad.com/l/bonechainrenamer
   - label: BlenderMarket
     url: https://blendermarket.com/products/bonechainrenamer
+  - label: Github
+    url: https://github.com/julienduroure/BoneChainRenamer
 display_url: true
 ---
 
@@ -81,6 +83,7 @@ Cela peut être changé en alphanumérique : *finger_a.R, finger_b.R, finger_c.R
 ## Historique
 *  __v0.1.0__, 6 janvier 2018 : version initiale
 *  __v0.1.1__, 8 avril 2018 : correction d'un bug lors du renommage des os subdivisés
+*  __v0.2.0__, 1 september 2019 : version pour Blender 2.80
 
 
 [1]: {{site.base_url}}/fr/AddonInstallation/

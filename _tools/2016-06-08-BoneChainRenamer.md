@@ -8,10 +8,10 @@ redirect_from:
   - /tools/BoneChainRenamer/
 cat: rigging
 sort_nb: 6
-stable_version: 0.1.1
-stable_status: Published on 2018 April, 08th
-dev_version: 0.1.2
-dev_status: In development / Bug fixing
+stable_version: 0.2.0
+stable_status: Published on 2019 Sept., 1st
+dev_version: N/A
+dev_status: No development in progress
 description: Rename easily your bone chains
 img: BoneChainRenamer.png
 getit_url:
@@ -19,6 +19,8 @@ getit_url:
     url: https://gumroad.com/l/bonechainrenamer
   - label: BlenderMarket
     url: https://blendermarket.com/products/bonechainrenamer
+  - label: Github
+    url: https://github.com/julienduroure/BoneChainRenamer
 display_url: true
 ---
 
@@ -81,6 +83,7 @@ It can be changed to alphanumeric: *finger_a.R, finger_b.R, finger_c.R*, etc...
 ## Version history
 *  __v0.1.0__, 2018 January, 06th: initial release
 *  __v0.1.1__, 2018 April, 08th: fix bug renaming subdivided bones
+*  __v0.2.0__, 2019 September 1st: Blender 2.80 version
 
 [1]: {{site.base_url}}/en/AddonInstallation/
 [2]: {{site.base_url}}/assets/img/BoneChainRenamer/by_distance.png
