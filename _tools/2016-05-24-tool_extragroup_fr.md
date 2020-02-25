@@ -8,10 +8,10 @@ redirect_from:
   - /tools/ExtraGroups-fr/
 cat: animation
 sort_nb: 1
-stable_version: v1.0.1
-stable_status: Publié le 20 décembre 2017
-dev_version: 1.0.2 (bugs) - v1.1.0 (nouvelles fonctionnalités)
-dev_status: En développement actif
+stable_version: v1.1.0
+stable_status: Publié le 18 janvier 2020
+dev_version: N/A
+dev_status: Pas de développement en cours
 description: Gérez vos os facilement !
 img: ExtraGroups.png
 getit_url:
@@ -319,6 +319,8 @@ On peut le faire [ici][2]
 *  __v1.0.0__, 20 mai 2017 : premier version publiée
 *  __v1.0.1__, 20 décembre 2017 :  
     *  Mute & Lock: bug quand une action existe, mais sans keyframes
+* __v1.1.0__, 18 janvier 2020
+    * Mise à jour pour Blender 2.80+
 
 
 [1]: {{site.base_url}}/en/AddonInstallation/
