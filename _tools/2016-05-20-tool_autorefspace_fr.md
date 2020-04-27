@@ -15,11 +15,9 @@ dev_status: En développement / beta privé
 description: Choisissez automatiquement l'espace de référence de vos os
 img: autorefspace.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+  - label: Github
+    url: https://github.com/julienduroure/AutoRefSpace
+display_url: true
 ---
 
 ## Pour démarrer

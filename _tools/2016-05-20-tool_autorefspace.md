@@ -15,11 +15,9 @@ dev_status: In development / private beta test
 description: Auto choose your bone reference spaces
 img: autorefspace.png
 getit_url:
-  - label: item 1
-    url: http://google.com/1
-  - label: item 2
-    url: http://google.com/2
-display_url: false
+  - label: Github
+    url: https://github.com/julienduroure/AutoRefSpace
+display_url: true
 ---
 
 ## Getting Started

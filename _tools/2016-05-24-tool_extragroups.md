@@ -19,6 +19,8 @@ getit_url:
     url: https://gumroad.com/l/ExtraGroups
   - label: BlenderMarket
     url: https://blendermarket.com/products/extragroups
+  - label: Github
+    url: https://github.com/julienduroure/ExtraGroups
 display_url: true
 ---
 
